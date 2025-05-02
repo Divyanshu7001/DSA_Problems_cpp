@@ -1,4 +1,4 @@
-//Find the unique elememnts and print
+// Find the unique elememnts and print
 
 #include <iostream>
 #include <unordered_map>
@@ -33,6 +33,10 @@ void findUnique(int *arr, int n)
 
 int main()
 {
+    int x;
+    cout << "Enter no: ";
+    cin >> x;
+    cout << "Number: " << x << endl;
 
     int arr[] = {11, 22, 33, 44, 11, 22, 33, 11, 22, 33, 55};
 
