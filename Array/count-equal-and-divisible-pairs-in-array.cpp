@@ -22,6 +22,11 @@ Explanation: Since no value in nums is repeated, there are no pairs (i,j) that m
  *
  */
 
+#include <iostream>
+#include <unordered_map>
+#include <vector>
+using namespace std;
+
 class Solution
 {
 public:
