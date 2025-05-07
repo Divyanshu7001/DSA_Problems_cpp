@@ -39,6 +39,8 @@ Output: 3
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <queue>
+using namespace std;
 
 class Solution
 {
@@ -51,7 +53,7 @@ public:
         int m = moveTime.size();
         int n = moveTime[0].size();
 
-        vector<vector<int>> result(m, vector<int>(n, INT_MAX));
+        vector<vector<int>> result(m, vector<int>(n, __INT_MAX__));
         priority_queue<P, vector<P>, greater<P>> pq;
 
         result[0][0] = 0;
