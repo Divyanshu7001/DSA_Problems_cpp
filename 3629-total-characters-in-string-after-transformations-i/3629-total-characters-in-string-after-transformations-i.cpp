@@ -50,6 +50,13 @@
 //     }
 // };
 
+
+//Replacing the unordered map with vector of size 26
+//size 26 as only lowercase characters will be in the string
+//index will be the characters - 0-a,1-b,2-c...
+//values will be frequency
+
+//T.C=o(t+n) and it will be the average case everytime soleving all the problems
 class Solution {
 public:
     int m = 1e9 + 7;
