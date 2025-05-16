@@ -22,9 +22,8 @@ public:
                                                 vector<int>& groups) {
         int n = words.size();
 
-        vector<int> dp(n,
-                       1); // dp[i]=longest subsequence length ending at index i
-        vector<int> parent(n, -1);
+        // dp[i]=longest subsequence length ending at index i
+        vector<int> parent(n, -1),dp(n,1);
 
         int longestSubsequence = 1;
         int longestSubsequenceIndex = 0;
