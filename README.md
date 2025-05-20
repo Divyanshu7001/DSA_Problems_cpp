@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3321-type-of-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [3639-zero-array-transformation-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3639-zero-array-transformation-i) |
 <!---LeetCode Topics End-->
