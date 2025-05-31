@@ -1,31 +1,31 @@
 class Solution {
 public:
     int n;
-
     pair<int, int> getCord(int y) {
         int row = n - 1 - (y - 1) / n;
         int col = (y - 1) % n;
 
-        // Zigzag adjustment
         if ((n % 2 == 1 && row % 2 == 1) || (n % 2 == 0 && row % 2 == 0)) {
             col = n - 1 - col;
         }
 
-        return {row, col};
+        return make_pair(row, col);
     }
 
     int snakesAndLadders(vector<vector<int>>& board) {
         n = board.size();
+        int steps = 0;
         queue<int> q;
-        vector<bool> seen(n * n + 1, false);
+        // vector<vector<bool>> visited(n, vector<bool>(n, false));
+        // visited[n - 1][0] = true;
 
         q.push(1);
-        seen[1] = true;
-        int steps = 0;
+        vector<bool> seen(n * n + 1, false);
 
+        // bfs
         while (!q.empty()) {
-            int sz = q.size();
-            while (sz--) {
+            int N = q.size();
+            while (N--) {
                 int x = q.front();
                 q.pop();
 
@@ -33,23 +33,23 @@ public:
                     return steps;
 
                 for (int j = 1; j <= 6; j++) {
-                    int next = x + j;
-                    if (next > n * n) break;
+                    if (x + j > n * n) {
+                        break;
+                    }
 
-                    pair<int, int> coord = getCord(next);
+                    pair<int, int> coord = getCord(x + j);
                     int r = coord.first;
                     int c = coord.second;
 
-                    int dest = board[r][c] == -1 ? next : board[r][c];
-                    if (!seen[dest]) {
-                        seen[dest] = true;
-                        q.push(dest);
-                    }
+                    int next = board[r][c] == -1 ? x + j : board[r][c];
+                    if (seen[next])
+                        continue;
+                    seen[next] = true;
+                    q.push(next);
                 }
             }
             steps++;
         }
-
         return -1;
     }
 };
