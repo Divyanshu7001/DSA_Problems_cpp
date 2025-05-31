@@ -16,8 +16,8 @@ public:
         n = board.size();
         int steps = 0;
         queue<int> q;
-        // vector<vector<bool>> visited(n, vector<bool>(n, false));
-        // visited[n - 1][0] = true;
+        vector<vector<bool>> visited(n, vector<bool>(n, false));
+        visited[n - 1][0] = true;
 
         q.push(1);
         vector<bool> seen(n * n + 1, false);
@@ -41,11 +41,15 @@ public:
                     int r = coord.first;
                     int c = coord.second;
 
-                    int next = board[r][c] == -1 ? x + j : board[r][c];
-                    if (seen[next])
+                    if (visited[r][c] == true)
                         continue;
-                    seen[next] = true;
-                    q.push(next);
+
+                    visited[r][c] = true;
+
+                    if (board[r][c] == -1)
+                        q.push(x + j);
+                    else
+                        q.push(board[r][c]);
                 }
             }
             steps++;
