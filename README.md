@@ -37,10 +37,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2215-finding-3-digit-even-numbers) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3201-distribute-candies-among-children-ii) |
 ## Math
 |  |
 | ------- |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0945-snakes-and-ladders](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
