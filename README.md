@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0007-reverse-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3321-type-of-triangle) |
