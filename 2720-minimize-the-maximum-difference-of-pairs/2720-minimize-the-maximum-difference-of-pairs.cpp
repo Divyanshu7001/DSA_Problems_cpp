@@ -4,14 +4,14 @@ public:
         if (p == 0)
             return 0;
         sort(nums.begin(), nums.end());
-        int n = nums.size();
-        int left = 0, right = nums[n - 1] - nums[0];
+        //int n = nums.size();
+        int left = 0, right = nums[nums.size() - 1] - nums[0];
 
         while (left < right) {
             int mid = left + (right - left) / 2;
             int pairs = 0;
 
-            for (int i = 1; i < n; i++) {
+            for (int i = 1; i < nums.size(); i++) {
                 if (mid>=nums[i] - nums[i - 1] ) {
                     pairs++;
                     i++;
