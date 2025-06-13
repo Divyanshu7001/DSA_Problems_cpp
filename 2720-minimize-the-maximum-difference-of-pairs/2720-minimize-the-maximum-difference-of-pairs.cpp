@@ -12,7 +12,7 @@ public:
             int pairs = 0;
 
             for (int i = 1; i < n; i++) {
-                if (nums[i] - nums[i - 1] <= mid) {
+                if (mid>=nums[i] - nums[i - 1] ) {
                     pairs++;
                     i++;
                 }
