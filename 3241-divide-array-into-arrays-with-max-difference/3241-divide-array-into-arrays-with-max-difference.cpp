@@ -1,3 +1,7 @@
+//T.C=O(NlogN)
+//Hold in the map..loop through
+//Push_back into result when satisfies the condition
+
 class Solution {
 public:
     vector<vector<int>> divideArray(vector<int>& nums, int k) {
@@ -23,7 +27,6 @@ public:
                         pair = mp.erase(pair);
                     } 
                     if (temp.size() == 3) {
-                        cout << "Triggering inside temp size 3";
                         result.push_back(temp);
                         numberOfArrays--;
                         groupFormed = true;
