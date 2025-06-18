@@ -46,7 +46,8 @@
 //     }
 // };
 
-//T.C=
+//T.C=O(NlogN)
+//S.C=O(N)
 //The difference between any two elements in one array is less than or equal to k.
 //Used the above line as the main point of reference
 class Solution {
