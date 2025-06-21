@@ -66,9 +66,8 @@ public:
         sort(frequencies.begin(), frequencies.end());
 
         int minDeletions = INT_MAX;
-        int n = frequencies.size();
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < 26; i++) {
             int base = frequencies[i];
             // if (base == 0)
             //     break;
@@ -78,7 +77,7 @@ public:
                 totalDeletions += frequencies[j];
             }
 
-            for (int j = i; j < n; j++) {
+            for (int j = i; j < 26; j++) {
                 if (frequencies[j] > base + k) {
                     totalDeletions += frequencies[j] - (base + k);
                 }
