@@ -58,19 +58,26 @@ class Solution {
 public:
     int minimumDeletions(string word, int k) {
 
-        vector<int> frequencies(26, 0);
+        vector<int> frequencies(26, INT_MAX);
         for (char c : word) {
-            frequencies[c - 'a']++;
+            if (frequencies[c - 'a'] == INT_MAX) {
+                frequencies[c - 'a'] = 1;
+            } else
+                frequencies[c - 'a']++;
         }
-        
+
         sort(frequencies.begin(), frequencies.end());
 
         int minDeletions = INT_MAX;
 
+        for (int i = 0; i < frequencies.size(); i++) {
+            cout << frequencies[i] << endl;
+        }
+
         for (int i = 0; i < 26; i++) {
             int base = frequencies[i];
-            // if (base == 0)
-            //     break;
+            if (base == INT_MAX)
+                break;
             int totalDeletions = 0;
 
             for (int j = 0; j < i; j++) {
@@ -79,7 +86,9 @@ public:
 
             for (int j = i; j < 26; j++) {
                 if (frequencies[j] > base + k) {
-                    totalDeletions += frequencies[j] - (base + k);
+                    if (frequencies[j] != INT_MAX) {
+                        totalDeletions += frequencies[j] - (base + k);
+                    }
                 }
             }
 
