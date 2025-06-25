@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0945-snakes-and-ladders](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2262-solving-questions-with-brainpower) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Simulation
 |  |
