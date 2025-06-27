@@ -187,3 +187,10 @@ public:
         return result;
     }
 };
+
+//Maxmimum subsequences length possible n/k
+//n to check all those subseuqnces if they are subsequence
+
+//T.C=O(n*(n/k)!)  
+//!=factorial
+//S.C=n/k
