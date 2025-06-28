@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2262-solving-questions-with-brainpower) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0073-set-matrix-zeroes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0075-sort-colors) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
