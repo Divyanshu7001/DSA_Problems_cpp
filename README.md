@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
@@ -245,8 +247,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
