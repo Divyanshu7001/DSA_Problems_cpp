@@ -1,3 +1,14 @@
+//Logic:
+//Good sliding window 
+
+//As we have to calculate the value of most free continuous time
+//We will get the free time between two events and keep pushing in vector
+//the max changes possible given in k
+//so the sliding window value is k+1
+//now iterate and get the sum
+//have a current window and global sum..iterate and update
+//if j-i+1>k+1..thats we are having more than the desired window size.then i++.else continue j++
+//T.C=O(n)
 class Solution {
 public:
     int maxFreeTime(int eventTime, int k, vector<int>& startTime,
