@@ -1,3 +1,4 @@
+//T.C=O(m*n)
 class Solution {
 public:
     int matchPlayersAndTrainers(vector<int>& players, vector<int>& trainers) {
