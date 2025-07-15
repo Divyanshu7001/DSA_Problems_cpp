@@ -19,6 +19,6 @@ public:
                     hasConsonent = true;
             }
         }
-        return (hasVowel && hasConsonent) ? true : false;
+        return hasVowel && hasConsonent;
     }
 };
