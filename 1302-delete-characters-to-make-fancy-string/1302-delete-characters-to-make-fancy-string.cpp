@@ -1,3 +1,4 @@
+//In-string update
 // class Solution {
 // public:
 //     string makeFancyString(string s) {
@@ -20,6 +21,7 @@
 //     }
 // };
 
+//New result string making
 class Solution {
 public:
     string makeFancyString(string s) {
