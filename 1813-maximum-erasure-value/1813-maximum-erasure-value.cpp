@@ -25,9 +25,7 @@ class Solution {
 public:
     int maximumUniqueSubarray(vector<int>& nums) {
         unordered_set<int> inWindow;
-        int curr = 0;
-        int best = 0;
-        int left = 0;
+        int curr = 0, best = 0, left = 0;
 
         for (int right = 0; right < (int)nums.size(); ++right) {
             int x = nums[right];
@@ -42,10 +40,10 @@ public:
             // Include x
             inWindow.insert(x);
             curr += x;
-            if (curr > best) best = curr;
+            if (curr > best)
+                best = curr;
         }
 
         return best;
-
     }
 };
