@@ -1,26 +1,48 @@
+// class Solution {
+// public:
+//     int maximumUniqueSubarray(vector<int>& nums) {
+//         unordered_set<int> inWindow;
+//         int curr = 0, best = 0, left = 0;
+
+//         for (int right = 0; right < nums.size(); right++) {
+//             int x = nums[right];
+
+//             // Shrink from left until x not in window
+//             while (inWindow.count(x)) {
+//                 inWindow.erase(nums[left]);
+//                 curr -= nums[left];
+//                 left++;
+//             }
+
+//             // Include x
+//             inWindow.insert(x);
+//             curr += x;
+//             best = max(curr, best);
+//         }
+
+//         return best;
+//     }
+// };
+
 class Solution {
 public:
     int maximumUniqueSubarray(vector<int>& nums) {
-        unordered_set<int> inWindow;
-        int curr = 0, best = 0, left = 0;
+        int sum = 0, n = nums.size();
+        unordered_map<int,int> mp;
 
-        for (int right = 0; right < nums.size(); right++) {
-            int x = nums[right];
+        int left = 0, res = 0;
+        for(int right = 0; right < n; right++){
+            mp[nums[right]]++;
+            sum += nums[right];
 
-            // Shrink from left until x not in window
-            while (inWindow.count(x)) {
-                inWindow.erase(nums[left]);
-                curr -= nums[left];
+            while(mp[nums[right]] > 1){
+                sum -= nums[left];
+                mp[nums[left]]--;
                 left++;
             }
-
-            // Include x
-            inWindow.insert(x);
-            curr += x;
-            best = max(curr, best);
+            res = max(res,sum);
         }
-
-        return best;
+        return res;
     }
 };
 
