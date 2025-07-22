@@ -4,27 +4,25 @@ public:
         unordered_set<int> inWindow;
         int curr = 0, best = 0, left = 0;
 
-        for (int right = 0; right < (int)nums.size(); ++right) {
+        for (int right = 0; right < nums.size(); right++) {
             int x = nums[right];
 
             // Shrink from left until x not in window
             while (inWindow.count(x)) {
                 inWindow.erase(nums[left]);
                 curr -= nums[left];
-                ++left;
+                left++;
             }
 
             // Include x
             inWindow.insert(x);
             curr += x;
-            if (curr > best)
-                best = curr;
+            best = max(curr, best);
         }
 
         return best;
     }
 };
-
 
 // Only adding the unique elements here...not according to the question
 // According to the question , it should add elements of an unique subarray
