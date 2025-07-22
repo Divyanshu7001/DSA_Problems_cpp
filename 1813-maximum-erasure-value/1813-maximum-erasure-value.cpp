@@ -1,26 +1,3 @@
-// Only adding the unique elements here...not according to the question
-// According to the question , it should add elements of an unique subarray
-//  class Solution {
-//  public:
-//      int maximumUniqueSubarray(vector<int>& nums) {
-//          unordered_map<int, int> freq;
-//          int result = 0;
-//          if (nums.size() == 1) {
-//              return result + nums[0];
-//          }
-//          for (int& num : nums) {
-//              freq[num]++;
-//          }
-
-//         for (auto& pair : freq) {
-//             cout<<pair.first<<endl;
-//             result += pair.first;
-//         }
-
-//         return result;
-//     }
-// };
-
 class Solution {
 public:
     int maximumUniqueSubarray(vector<int>& nums) {
@@ -47,3 +24,27 @@ public:
         return best;
     }
 };
+
+
+// Only adding the unique elements here...not according to the question
+// According to the question , it should add elements of an unique subarray
+//  class Solution {
+//  public:
+//      int maximumUniqueSubarray(vector<int>& nums) {
+//          unordered_map<int, int> freq;
+//          int result = 0;
+//          if (nums.size() == 1) {
+//              return result + nums[0];
+//          }
+//          for (int& num : nums) {
+//              freq[num]++;
+//          }
+
+//         for (auto& pair : freq) {
+//             cout<<pair.first<<endl;
+//             result += pair.first;
+//         }
+
+//         return result;
+//     }
+// };
