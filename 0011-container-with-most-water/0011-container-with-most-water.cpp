@@ -5,9 +5,7 @@ public:
         int n = height.size();
         int i = 0, j = n - 1, maxWater = 0;
         while (i < j) {
-            int width = j - i;
-            int ht = min(height[j], height[i]);
-            int area = ht * width;
+            int area = (j-i)*min(height[j], height[i]);
             maxWater = max(maxWater, area);
 
             if (height[i] > height[j]) {
