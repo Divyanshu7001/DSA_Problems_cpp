@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0135-candy) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0073-set-matrix-zeroes) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1510-find-lucky-integer-in-an-array) |
