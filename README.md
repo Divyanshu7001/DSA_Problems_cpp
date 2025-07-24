@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0344-reverse-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0011-container-with-most-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0344-reverse-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2320-find-all-k-distant-indices-in-an-array) |
