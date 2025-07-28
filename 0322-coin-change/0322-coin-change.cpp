@@ -6,7 +6,7 @@ public:
         if (amount < 1)
             return 0;
 
-        vector<int> minCoinsDP(amount + 1);
+        vector<int> minCoinsDP(amount+1);
         minCoinsDP[0] = 0;
         for (int i = 1; i <= amount; i++) {
             minCoinsDP[i] = INT_MAX;
