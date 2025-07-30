@@ -12,7 +12,6 @@ public:
                 currLen = 0;
             }
         }
-
         return maxLen;
     }
 };
