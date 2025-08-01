@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0011-container-with-most-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0011-container-with-most-water) |
 | [0073-set-matrix-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0135-candy) |
 | [0322-coin-change](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0322-coin-change) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0594-longest-harmonious-subsequence) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0118-pascals-triangle) |
 | [0322-coin-change](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0322-coin-change) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
