@@ -72,35 +72,13 @@
 //     }
 // };
 
-
-//Optimized solution
-//Use unordered_map for efficiency and it doesnt matter about the position anyway
-//For extras finding: 
-//use one map...when going from basket1..do plus...going through basket2..do minus...at last will have extras only > 0
+// Optimized solution
+// Use unordered_map for efficiency and it doesnt matter about the position
+// anyway For extras finding: use one map...when going from basket1..do
+// plus...going through basket2..do minus...at last will have extras only > 0
 
 class Solution {
 public:
-    // vector<int> vec; // Which elements need to be swapped
-    // map<int, int> seen;
-    // int calc(map<int, int>& f1, map<int, int>& f2) {
-    //     for (auto& [k, v] : f1) {
-    //         // Avoid going through same element again
-    //         if (seen[k])
-    //             continue;
-    //         seen[k] = 1;
-    //         if ((f1[k] + f2[k]) % 2 == 1)
-    //             return -1;
-    //         if (f1[k] != f2[k]) {
-    //             int difference = abs(f1[k] - f2[k]);
-    //             int extra = difference / 2;
-    //             while (extra--) {
-    //                 vec.push_back(k);
-    //             }
-    //         }
-    //     }
-    //     return 1;
-    // }
-
     long long minCost(vector<int>& basket1, vector<int>& basket2) {
         unordered_map<int, int> mp;
         int globalMinima = 1e9;
@@ -114,11 +92,12 @@ public:
         }
 
         vector<int> vec; // Which elements need to be swapped
-        for(auto& [k,v]:mp){
-            if(abs(v)%2==1) return -1;
-            int difference=abs(v);
-            int extra=difference/2;
-            while(extra--){
+        for (auto& [k, v] : mp) {
+            if (abs(v) % 2 == 1)
+                return -1;
+            int difference = abs(v);
+            int extra = difference / 2;
+            while (extra--) {
                 vec.push_back(k);
             }
         }
