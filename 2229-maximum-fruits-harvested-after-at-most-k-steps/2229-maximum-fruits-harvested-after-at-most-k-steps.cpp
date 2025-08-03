@@ -1,60 +1,13 @@
-// class Solution {
-// public:
-//     int maxFruits = 0;
-
-//     void traversal(vector<vector<int>> slicedFruits, int k) {
-//         int currentFruits = 0;
-//         for (auto& f : slicedFruits) {
-//             currentFruits += f[1];
-//         }
-//         maxFruits = max(maxFruits, currentFruits);
-//     }
-
-//     int maxTotalFruits(vector<vector<int>>& fruits, int startPos, int k) {
-//         // Slice range: only consider fruits within [startPos - k, startPos +
-//         k] vector<vector<int>> validFruits;
-
-//         if (startPos == 0) {
-//             for (auto& f : fruits) {
-//                 if (f[0] >= startPos && f[0] <= startPos + k) {
-//                     validFruits.push_back(f);
-//                 }
-//             }
-//             traversal(validFruits, k);
-//         } else if (startPos == fruits.size()) {
-//             for (auto& f : fruits) {
-//                 if (f[0] >= startPos - k && f[0] <= startPos) {
-//                     validFruits.push_back(f);
-//                 }
-//             }
-//             traversal(validFruits, k);
-//         } else {
-//             for (auto& f : fruits) {
-//                 if (f[0] >= startPos - k && f[0] <= startPos + k) {
-//                     validFruits.push_back(f);
-//                 }
-//             }
-//             // Split validFruits into left and right sides based on startPos
-//             vector<vector<int>> leftFruits, rightFruits;
-
-//             for (auto& f : validFruits) {
-//                 if (f[0] < startPos)
-//                     leftFruits.push_back(f);
-//                 else
-//                     rightFruits.push_back(f);
-//             }
-
-//             traversal(leftFruits, k);
-//             traversal(rightFruits, k);
-//         }
-
-//         return maxFruits;
-//     }
-// };
-
 // Logic:
-
 // Case-1
+/**
+        covering left fruits firts in sequence and checking how
+        far right we can go
+
+        F ------ F ------- IP ----- F -- F ---- F ----- F
+                 | <---- dist ----
+                  --------------- k - dist -------->|
+*/
 // Have to traverse to left as much as possible ..then comeback to right
 // Supposing control traverses 'd' distance in left
 // Then total valid range of fruits to be extracted =>
@@ -66,6 +19,16 @@
 //..therefore it cant be more than half of d
 
 // Case-2
+/**
+        covering right fruits in sequence and checking how
+        far left we can go
+
+        F -------- F ---- F ----- IP ----- F ---- F --- F
+                                   ----- dist --> |
+                | <-------------k - dist-----------
+
+**/
+
 // Supposing that control traverses right 'd' distance..comes back & then goes
 // to left right = (p+d) left = p-(k-2*d)
 
