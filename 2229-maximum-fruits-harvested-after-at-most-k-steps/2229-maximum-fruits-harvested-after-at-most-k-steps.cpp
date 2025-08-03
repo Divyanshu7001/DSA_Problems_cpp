@@ -72,6 +72,9 @@
 // Keep accumulating prefix sum to get the total fruits value of this perticular
 // range in constant time prefix[right]-prefix[left-1]
 
+
+//T.C=O(k*logn)
+//S.C=O(n)
 class Solution {
 public:
     int maxFruits = 0;
@@ -98,13 +101,15 @@ public:
         }
 
         int maxFruits = 0;
-
+        
+        //O(k)
         for (int d = 0; d <= k / 2; d++) {
             // Case-1: moved 'd' steps to the left
             int remaining = k - 2 * d;
             int i = startPos - d;
             int j = startPos + remaining;
 
+            //O(logn) complexity as the lower_bound and upper_bound are binary search techniques
             int left = lower_bound(begin(positions), end(positions), i) -
                        begin(positions);
             int right = upper_bound(begin(positions), end(positions), j) -
