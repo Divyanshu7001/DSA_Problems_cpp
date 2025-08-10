@@ -4,6 +4,8 @@
 // question asks to see if any of ordering can match with some power of 2 in the
 // function if passed value's sorted string can match the original number's
 // sorted string..then we can return true
+
+//T.C=O(Klogk)
 class Solution {
 public:
     string getOrderedString(int n) {
