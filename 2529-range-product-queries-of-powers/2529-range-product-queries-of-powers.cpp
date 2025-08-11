@@ -1,9 +1,8 @@
-// T.c=O(QâN)
-
 // Logic of building powers vector
 // In the binary representation of any number , the set bits should be added to
 // the powers vector Do the binary represenation & keep checking which bits are
 // set..the set bits should be added to the powers
+// T.c=O(Qâ32) = O(Q)
 class Solution {
 public:
     void buildPowers(int n, vector<int>& powers) {
@@ -29,6 +28,7 @@ public:
     }
 };
 
+// T.c=O(QâN)
 // Gives TLE in bigger inputs and out of index
 //  class Solution {
 //  public:
