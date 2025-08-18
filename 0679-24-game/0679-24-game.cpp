@@ -17,6 +17,9 @@
 // The main logic is, in present cards..do some operation..append the
 // result..explore with it if we get a result...id not pop it and go for other
 // options do-append-explore-pop => backtracking
+
+//T.C=O(1)=S.C for this small input size
+//Otherwise in general = T.c=O(N!)
 class Solution {
 public:
     double epsilon = 0.1;
