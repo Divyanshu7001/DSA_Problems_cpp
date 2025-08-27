@@ -1,4 +1,4 @@
-// T.C = O(NâM)
+// T.C = O(NâM) = S.C
 //$ values are of changing parameters i.e row no, column no, direction & can
 // turn or not
 class Solution {
