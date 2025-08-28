@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3748-sort-matrix-by-diagonals) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3791-fruits-into-baskets-iii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3321-type-of-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3647-zero-array-transformation-iii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3748-sort-matrix-by-diagonals) |
 ## Enumeration
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
