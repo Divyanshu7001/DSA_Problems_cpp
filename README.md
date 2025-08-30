@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0075-sort-colors) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0594-longest-harmonious-subsequence) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0945-snakes-and-ladders) |
