@@ -1,3 +1,4 @@
+//T.C = O(162) => O(1) = since the board size is always fixed
 class Solution {
 public:
     bool isValidRowsAndCols(vector<vector<char>>& board) {
