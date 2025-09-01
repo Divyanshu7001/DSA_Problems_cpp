@@ -1,36 +1,72 @@
+//T.C = O(N+KâLog(N))
+// class Solution {
+// public:
+//     double maxGainPossible(int a, int b) {
+//         return (double)(a + 1) / (b + 1) - (double)a / b;
+//     }
+
+//     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
+//         int n = classes.size();
+//         priority_queue<pair<double, vector<int>>> pq;
+
+//         for (auto& c : classes) {
+//             pq.push({maxGainPossible(c[0], c[1]), {c[0], c[1]}});
+//         }
+
+//         while (extraStudents > 0) {
+//             auto top = pq.top();
+//             pq.pop();
+
+//             int passingStudents = top.second[0];
+//             int totalStudents = top.second[1];
+//             passingStudents++;
+//             totalStudents++;
+
+//             pq.push({maxGainPossible(passingStudents, totalStudents),
+//                      {passingStudents, totalStudents}});
+//             extraStudents--;
+//         }
+
+//         double result = 0.0;
+//         while (!pq.empty()) {
+//             auto top = pq.top();
+//             pq.pop();
+//             result += (double)top.second[0] / top.second[1];
+//         }
+
+//         return result / n;
+//     }
+// };
+
 class Solution {
 public:
-    double maxGainPossible(int a, int b) {
-        return (double)(a + 1) / (b + 1) - (double)a / b;
-    }
-
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
+        auto gain = [](int a, int b) {
+            return (double)(a + 1) / (b + 1) - (double)a / b;
+        };
+
         int n = classes.size();
-        priority_queue<pair<double, vector<int>>> pq;
+        priority_queue<pair<double, pair<int,int>>> pq;
 
         for (auto& c : classes) {
-            pq.push({maxGainPossible(c[0], c[1]), {c[0], c[1]}});
+            pq.push({gain(c[0], c[1]), {c[0], c[1]}});
         }
 
-        while (extraStudents > 0) {
-            auto top = pq.top();
+        for (int i = 0; i < extraStudents; i++) {
+            auto [g, cls] = pq.top();
             pq.pop();
 
-            int passingStudents = top.second[0];
-            int totalStudents = top.second[1];
-            passingStudents++;
-            totalStudents++;
+            int pass = cls.first + 1;
+            int total = cls.second + 1;
 
-            pq.push({maxGainPossible(passingStudents, totalStudents),
-                     {passingStudents, totalStudents}});
-            extraStudents--;
+            pq.push({gain(pass, total), {pass, total}});
         }
 
         double result = 0.0;
         while (!pq.empty()) {
-            auto top = pq.top();
+            auto [g, cls] = pq.top();
             pq.pop();
-            result += (double)top.second[0] / top.second[1];
+            result += (double)cls.first / cls.second;
         }
 
         return result / n;
