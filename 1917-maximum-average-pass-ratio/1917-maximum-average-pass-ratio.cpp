@@ -38,6 +38,8 @@
 //     }
 // };
 
+//Optimized overhead reduced with lambda gain expression approach and pair,pair instead of pair & vector in pq
+//Not me => from chatgpt
 class Solution {
 public:
     double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
