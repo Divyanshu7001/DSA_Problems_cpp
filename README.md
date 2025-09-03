@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3321-type-of-triangle) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0498-diagonal-traverse](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
