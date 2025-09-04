@@ -1,3 +1,4 @@
+//T.C = O(1)
 class Solution {
 public:
     int findClosest(int x, int y, int z) {
