@@ -4,7 +4,19 @@ public:
 
         int t = 0;
 
-        while (true) {
+        // while (true) {
+        //     long long val = (long long)num1 - (long long)t * num2;
+
+        //     if (val < 0)
+        //         return -1;
+
+        //     if (__builtin_popcountll(val) <= t && t <= val) {
+        //         return t;
+        //     }
+        //     t++;
+        // }
+
+        for (int t = 1; t <= 36; t++) {
             long long val = (long long)num1 - (long long)t * num2;
 
             if (val < 0)
@@ -13,7 +25,6 @@ public:
             if (__builtin_popcountll(val) <= t && t <= val) {
                 return t;
             }
-            t++;
         }
 
         return -1;
