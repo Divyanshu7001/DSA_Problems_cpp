@@ -19,7 +19,6 @@ public:
                 result[i] = j;
             }
         }
-
         return result;
     }
 };
