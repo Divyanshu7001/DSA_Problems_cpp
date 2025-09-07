@@ -1,3 +1,4 @@
+// T.C = O(N)
 class Solution {
 public:
     vector<int> sumZero(int n) {
@@ -21,7 +22,7 @@ public:
             }
             result[(n - 1) / 2] = 0;
             current = 1;
-            for (int i = ((n - 1) / 2)+1; i < n; i++) {
+            for (int i = ((n - 1) / 2) + 1; i < n; i++) {
                 result[i] = current;
                 current++;
             }
