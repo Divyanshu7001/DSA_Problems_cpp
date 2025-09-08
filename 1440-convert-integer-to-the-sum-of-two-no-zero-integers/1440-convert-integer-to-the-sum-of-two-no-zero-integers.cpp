@@ -9,11 +9,11 @@ public:
         return false;
     }
     vector<int> getNoZeroIntegers(int n) {
-        vector<int> result = {-1, -1};
-        for (int i = 0; i < n; i++) {
-            if (!hasZero(i) && !hasZero(n - i)){
-                result[0] = i;
-                result[1] = n - i;
+        vector<int> result;
+        for (int i = 1; i < n; i++) {
+            if (!hasZero(i) && !hasZero(n - i)) {
+                result = {i, n - i};
+                break;
             }
         }
         return result;
