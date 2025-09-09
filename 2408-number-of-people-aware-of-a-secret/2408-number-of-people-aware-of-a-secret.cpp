@@ -1,3 +1,4 @@
+//T.C=O(n*(forget-delay))
 class Solution {
 public:
     int MOD = 1e9 + 7;
