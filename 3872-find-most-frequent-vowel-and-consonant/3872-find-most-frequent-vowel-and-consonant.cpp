@@ -2,16 +2,14 @@ class Solution {
 public:
     int maxFreqSum(string s) {
 
-        unordered_map<char, int> Vowelmp;
-        unordered_map<char, int> Consonantmp;
+        unordered_map<char, int> mp;
 
         int maxConsonantFreq = 0, maxVowelFreq = 0;
         for (char c : s) {
-            char ch = tolower(c);
-            if (ch == 'a' || ch == 'e' || ch == 'o' || ch == 'i' || ch == 'u') {
-                maxVowelFreq = max(maxVowelFreq, ++Vowelmp[ch]);
+            if (c == 'a' || c == 'e' || c == 'o' || c == 'i' || c == 'u') {
+                maxVowelFreq = max(maxVowelFreq, ++mp[c]);
             } else {
-                maxConsonantFreq = max(maxConsonantFreq, ++Consonantmp[ch]);
+                maxConsonantFreq = max(maxConsonantFreq, ++mp[c]);
             }
         }
 
