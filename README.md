@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1448-maximum-69-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
@@ -513,4 +516,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
