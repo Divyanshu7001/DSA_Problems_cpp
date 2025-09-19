@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3678-design-task-manager](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3797-design-spreadsheet](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3797-design-spreadsheet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3797-design-spreadsheet) |
 ## Linked List
 |  |
 | ------- |
