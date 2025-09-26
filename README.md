@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0322-coin-change](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0322-coin-change) |
 | [0498-diagonal-traverse](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0792-binary-search) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0088-merge-sorted-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0011-container-with-most-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0151-reverse-words-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0344-reverse-string) |
+| [0611-valid-triangle-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0792-binary-search) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
