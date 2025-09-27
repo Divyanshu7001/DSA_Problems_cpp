@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0611-valid-triangle-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0679-24-game) |
 | [0792-binary-search](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0945-snakes-and-ladders) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0326-power-of-three](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Queue
