@@ -4,8 +4,8 @@ public:
         double maxArea = 0.0;
         int n = points.size();
         
-        for (int i = 0; i < n; i++) {
-            for (int j = i+1; j < n; j++) {
+        for (int i = 0; i < n-2; i++) {
+            for (int j = i+1; j < n-1; j++) {
                 for (int k = j+1; k < n; k++) {
                     double x1 = points[i][0], y1 = points[i][1];
                     double x2 = points[j][0], y2 = points[j][1];
