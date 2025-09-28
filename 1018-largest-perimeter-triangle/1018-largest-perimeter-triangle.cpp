@@ -22,6 +22,7 @@ public:
     int largestPerimeter(vector<int>& nums) {
         int n = nums.size();
         sort(nums.begin(), nums.end());
+        //Find the first maximum triplet and return that as it guarantees max perimeter
         for (int i = n - 1; i >= 2; i--) {
             int a = nums[i], b = nums[i - 1], c = nums[i - 2];
             if (a + b > c && b + c > a && c + a > b) {
