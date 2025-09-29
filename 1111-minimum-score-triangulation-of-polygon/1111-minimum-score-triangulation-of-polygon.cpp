@@ -5,7 +5,9 @@
 // call + current weightv+ right recurse call => result
 class Solution {
 public:
+    //T.C=O(n3)
     int t[51][51];
+    //O(n2) as we can at most visit n2 states as the size of the array taken is (n+1)(n+1)
     int solve(vector<int>& values, int i, int j) {
 
         // suppose {a,b,c,d,e,f}
@@ -20,7 +22,7 @@ public:
 
         int result = INT_MAX;
 
-        for (int k = i + 1; k < j; k++) {
+        for (int k = i + 1; k < j; k++) {//O(n)
             int wt = values[i] * values[k] * values[j] + solve(values, i, k) +
                      solve(values, k, j);
 
