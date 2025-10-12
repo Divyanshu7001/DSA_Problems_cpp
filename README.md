@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3791-fruits-into-baskets-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3797-design-spreadsheet) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Counting
 |  |
 | ------- |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Tree
 |  |
 | ------- |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2324-find-triangular-sum-of-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3201-distribute-candies-among-children-ii) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Union Find
 |  |
 | ------- |
@@ -621,4 +626,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0023-merge-k-sorted-lists) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
