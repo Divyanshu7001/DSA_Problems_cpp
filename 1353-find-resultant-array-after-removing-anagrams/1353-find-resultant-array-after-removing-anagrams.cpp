@@ -1,3 +1,4 @@
+//T.C=O(NâK)
 class Solution {
 public:
     int n;
