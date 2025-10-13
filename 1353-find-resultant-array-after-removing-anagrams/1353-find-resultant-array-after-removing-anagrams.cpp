@@ -1,10 +1,9 @@
 //T.C=O(NâK)
 class Solution {
 public:
-    int n;
     bool isAnagram(string a, string b) {
         if (a.size() != b.size())
-            return false; // early exit if lengths differ
+            return false;
 
         array<int, 26> freq = {0};
         for (char c : a)
@@ -27,10 +26,9 @@ public:
         return words;
     }
     vector<string> removeAnagrams(vector<string>& words) {
-        n = words.size();
-        if (n == 1)
+        if (words.size() == 1)
             return words;
-        if (n == 2) {
+        if (words.size() == 2) {
             if (isAnagram(words[1], words[0])){
                 words.erase(words.begin()+1);
                 return words;
