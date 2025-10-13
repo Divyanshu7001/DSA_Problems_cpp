@@ -4,14 +4,16 @@ public:
     bool isAnagram(string a, string b) {
         if (a.size() != b.size())
             return false; // early exit if lengths differ
-        unordered_map<char, int> mp1, mp2;
-        for (char ch : a)
-            mp1[ch]++;
 
-        for (char ch : b)
-            mp2[ch]++;
-
-        return mp1 == mp2;
+        array<int, 26> freq = {0};
+        for (char c : a)
+            freq[c - 'a']++;
+        for (char c : b)
+            freq[c - 'a']--;
+        for (int x : freq)
+            if (x != 0)
+                return false;
+        return true;
     }
     vector<string> solve(vector<string>& words) {
         int m = words.size();
