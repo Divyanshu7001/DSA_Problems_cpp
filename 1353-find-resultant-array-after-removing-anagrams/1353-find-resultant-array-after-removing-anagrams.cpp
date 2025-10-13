@@ -29,7 +29,13 @@ public:
         n = words.size();
         if (n == 1)
             return words;
-
+        if (n == 2) {
+            if (isAnagram(words[1], words[0])){
+                words.erase(words.begin()+1);
+                return words;
+            }
+            return words;
+        }
         return solve(words);
     }
 };
