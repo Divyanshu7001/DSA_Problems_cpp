@@ -1,5 +1,9 @@
-class Solution {
+// Approach - Greedily sorting and checking each element
 
+// T.C : O(nlogn)
+
+// S.C : O(1)
+class Solution {
 public:
     int maxDistinctElements(vector<int>& nums, int k) {
 
