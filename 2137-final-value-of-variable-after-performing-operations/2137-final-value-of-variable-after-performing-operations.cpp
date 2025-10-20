@@ -1,3 +1,4 @@
+// T.C=O(N)
 class Solution {
 public:
     int finalValueAfterOperations(vector<string>& operations) {
@@ -5,10 +6,7 @@ public:
         int x = 0;
 
         for (const string& op : operations) {
-            if (op[1] == '-')
-                x--;
-            else
-                x++;
+            (op[1] == '-') ? x-- : x++;
         }
 
         return x;
