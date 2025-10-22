@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3748-sort-matrix-by-diagonals) |
 ## Enumeration
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3618-find-the-original-typed-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3639-zero-array-transformation-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1813-maximum-erasure-value](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3791-fruits-into-baskets-iii) |
 ## Simulation
