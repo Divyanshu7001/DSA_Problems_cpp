@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
