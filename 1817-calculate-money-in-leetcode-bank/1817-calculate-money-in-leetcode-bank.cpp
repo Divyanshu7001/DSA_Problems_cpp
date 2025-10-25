@@ -1,3 +1,4 @@
+// T.C=O(N)
 class Solution {
 public:
     int weeklyStart = 1, money = 1;
