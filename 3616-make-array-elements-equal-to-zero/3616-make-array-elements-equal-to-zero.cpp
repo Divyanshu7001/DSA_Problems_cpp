@@ -1,3 +1,5 @@
+//Simulation approach
+//T.C=O(n2)
 class Solution {
 public:
     bool check(vector<int>& nums, int count, int i, int dir) {
