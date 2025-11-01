@@ -1,4 +1,5 @@
 //No delete calls needed..leetcode does that stuff internally
+//T.C=O(N)
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
