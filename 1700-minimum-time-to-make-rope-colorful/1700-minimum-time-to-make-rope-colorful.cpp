@@ -1,3 +1,4 @@
+//T.C=O(N)
 class Solution {
 public:
     int minCost(string colors, vector<int>& neededTime) {
