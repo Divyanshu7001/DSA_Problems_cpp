@@ -11,7 +11,6 @@ public:
             if (pq.size() > x)
                 pq.pop();
         }
-
         int sum = 0;
         while (!pq.empty()) { // O(k)
             auto [freq, val] = pq.top();
@@ -28,7 +27,6 @@ public:
         int n = nums.size();
 
         unordered_map<int, int> mp;
-
         vector<int> result;
 
         int i = 0;
@@ -37,16 +35,13 @@ public:
         // O(n*klogk)
         while (j < n) { // O(n)
             mp[nums[j]]++;
-
             if (j - i + 1 == k) {
                 result.push_back(findTopSum(mp, x));
-
                 mp[nums[i]]--;
                 if (mp[nums[i]] == 0)
                     mp.erase(nums[i]);
                 i++;
             }
-
             j++;
         }
 
