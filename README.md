@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0073-set-matrix-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0940-fruit-into-baskets) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0165-compare-version-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0166-fraction-to-recurring-decimal) |
 | [0344-reverse-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0474-ones-and-zeroes) |
 | [1006-vowel-spellchecker](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -720,6 +723,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Number Theory
