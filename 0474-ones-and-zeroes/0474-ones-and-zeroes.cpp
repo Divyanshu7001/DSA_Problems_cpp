@@ -1,3 +1,4 @@
+//T.C=O(MâNâL)
 class Solution {
 public:
     int t[101][101][601];
