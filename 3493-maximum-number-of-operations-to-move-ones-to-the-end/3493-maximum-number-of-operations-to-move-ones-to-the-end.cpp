@@ -1,3 +1,4 @@
+//T.C=O(N)
 class Solution {
 public:
     int maxOperations(string s) {
@@ -19,10 +20,3 @@ public:
         return res;
     }
 };
-
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
