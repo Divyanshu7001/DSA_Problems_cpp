@@ -1,3 +1,5 @@
+//T.C=O(NâMâQ)=>O(n2)
+//Slow but accepted
 class Solution {
 public:
     int N;
