@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2023-design-movie-rental-system) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2169-simple-bank-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1636-number-of-substrings-with-only-1s](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0342-power-of-four](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
