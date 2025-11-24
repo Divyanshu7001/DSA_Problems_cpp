@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0945-snakes-and-ladders](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0945-snakes-and-ladders) |
 | [1006-vowel-spellchecker](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1018-largest-perimeter-triangle) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0231-power-of-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
