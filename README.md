@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0900-reordered-power-of-2](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1006-vowel-spellchecker) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0867-new-21-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1018-largest-perimeter-triangle) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
