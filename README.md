@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2479-meeting-rooms-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2529-range-product-queries-of-powers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2625-increment-submatrices-by-one) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2625-increment-submatrices-by-one) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
