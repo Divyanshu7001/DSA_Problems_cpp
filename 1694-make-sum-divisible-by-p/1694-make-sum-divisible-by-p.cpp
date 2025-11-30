@@ -1,3 +1,4 @@
+//T.C=O(N)
 class Solution {
 public:
     int minSubarray(vector<int>& nums, int p) {
@@ -26,38 +27,3 @@ public:
 
 
 
-// class Solution {
-// public:
-//     int solve(vector<int>& nums, int want) {
-//         int n = nums.size();
-//         for (int i = 0; i < n; i++) {
-//             int temp = want;
-//             temp -= nums[i];
-//             for (int j = i + 1; j < n; j++) {
-//                 temp -= nums[j];
-//                 if (temp == 0)
-//                     return j - i + 1;
-//                 if (temp < 0)
-//                     break;
-//             }
-//         }
-//         return -1;
-//     }
-
-//     int minSubarray(vector<int>& nums, int p) {
-
-//         long long sum = accumulate(nums.begin(), nums.end(), 0LL); // FIX
-
-//         if (sum < p)
-//             return -1;
-//         if (sum % p == 0)
-//             return 0;
-
-//         int want = sum % p;
-//         if (find(nums.begin(), nums.end(), want) != nums.end())
-//             return 1;
-
-//         int res = solve(nums, want);
-//         return res;
-//     }
-// };
