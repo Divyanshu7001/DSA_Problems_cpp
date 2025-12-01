@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2262-solving-questions-with-brainpower) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2215-finding-3-digit-even-numbers) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1917-maximum-average-pass-ratio](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
