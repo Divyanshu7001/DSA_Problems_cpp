@@ -15,9 +15,10 @@ public:
         int collisions = 0;
 
         // All remaining 'L' or 'R' cars in the middle will collide
-        for (int i = left; i <= right; i++) {
-            if (directions[i] != 'S')
+        while (left <= right) {
+            if (directions[left] != 'S')
                 collisions++;
+            left++;
         }
 
         return collisions;
