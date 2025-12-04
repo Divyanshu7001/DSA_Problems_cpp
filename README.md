@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2317-count-collisions-on-a-road](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2317-count-collisions-on-a-road) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2429-design-a-food-rating-system) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2317-count-collisions-on-a-road](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2317-count-collisions-on-a-road) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2288-count-operations-to-obtain-zero) |
+| [2317-count-collisions-on-a-road](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2317-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2408-number-of-people-aware-of-a-secret) |
