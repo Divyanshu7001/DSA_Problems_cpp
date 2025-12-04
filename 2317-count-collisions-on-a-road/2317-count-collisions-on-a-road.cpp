@@ -12,6 +12,8 @@ public:
         while (right >= 0 && directions[right] == 'R')
             right--;
 
+        if (left>=right) return 0;
+
         int collisions = 0;
 
         // All remaining 'L' or 'R' cars in the middle will collide
