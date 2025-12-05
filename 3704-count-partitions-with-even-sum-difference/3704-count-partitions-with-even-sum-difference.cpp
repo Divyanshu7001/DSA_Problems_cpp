@@ -14,6 +14,8 @@
 //     }
 // };
 
+
+//T.C=O(n)=>prefSum
 class Solution {
 public:
     int countPartitions(vector<int>& nums) {
@@ -27,7 +29,6 @@ public:
         }
 
         for (int i = 0; i < n - 1; i++) {
-            cout << "in loop " << i;
             if (abs(prefSum[i] - (prefSum[n - 1] - prefSum[i])) % 2 == 0)
                 res += 1;
         }
