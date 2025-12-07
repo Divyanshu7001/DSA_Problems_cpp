@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0118-pascals-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0169-majority-element) |
 | [0322-coin-change](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0407-trapping-rain-water-ii) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0088-merge-sorted-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0794-swim-in-rising-water) |
