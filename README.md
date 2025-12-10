@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3863-power-grid-maintenance) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3886-count-number-of-trapezoids-i) |
 ## Hash Table
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3830-find-closest-person](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3886-count-number-of-trapezoids-i) |
 ## String
 |  |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Union Find
 |  |
 | ------- |
@@ -779,6 +782,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 ## Divide and Conquer
 |  |
 | ------- |
