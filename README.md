@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0135-candy](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0417-pacific-atlantic-water-flow) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0053-maximum-subarray](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0474-ones-and-zeroes) |
 | [0867-new-21-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0867-new-21-game) |
