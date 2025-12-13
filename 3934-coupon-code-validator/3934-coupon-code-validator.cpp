@@ -20,12 +20,13 @@ public:
                 temp.push_back({businessLine[i], code[i]});
         }
 
-        sort(temp.begin(), temp.end(), [&](const auto& a, const auto& b) {
-            if (priority[a.first] != priority[b.first])
-                return priority[a.first] <
-                       priority[b.first]; // businessLine order
-            return a.second < b.second;   // lexicographical code order
-        });
+        auto lambda = [this](const auto& a, const auto& b) {
+            return priority[a.first] == priority[b.first]
+                       ? a.second < b.second
+                       : priority[a.first] < priority[b.first];
+        };
+
+        sort(temp.begin(), temp.end(), lambda);
 
         vector<string> res;
         for (auto& p : temp)
