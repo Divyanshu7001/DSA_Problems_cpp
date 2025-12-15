@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2262-solving-questions-with-brainpower) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2037-count-square-sum-triples](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2037-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2288-count-operations-to-obtain-zero) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2262-solving-questions-with-brainpower](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
