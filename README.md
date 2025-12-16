@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3863-power-grid-maintenance) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3885-count-special-triplets) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Counting
 |  |
 | ------- |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 ## Graph
 |  |
 | ------- |
@@ -645,6 +648,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
