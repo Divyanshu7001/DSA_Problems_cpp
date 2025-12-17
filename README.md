@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3886-count-number-of-trapezoids-i) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3934-coupon-code-validator) |
 ## Hash Table
 |  |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
+| [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Counting
 |  |
 | ------- |
