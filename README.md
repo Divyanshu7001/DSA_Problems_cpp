@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2529-range-product-queries-of-powers) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
