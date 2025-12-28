@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0794-swim-in-rising-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0611-valid-triangle-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0794-swim-in-rising-water) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
