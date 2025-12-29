@@ -1,6 +1,7 @@
 // CLassic Backtracking Problem example
 // Multiple choices and paths possible & we need to find one possible solution
 class Solution {
+private:
     unordered_map<string, vector<char>> mp;
     unordered_map<string, bool> t;
     bool solve(string curr, int idx, string above) {
