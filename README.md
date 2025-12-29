@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0387-first-unique-character-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0645-set-mismatch) |
+| [0757-pyramid-transition-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0757-pyramid-transition-matrix) |
 | [0900-reordered-power-of-2](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1006-vowel-spellchecker) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0344-reverse-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0474-ones-and-zeroes) |
+| [0757-pyramid-transition-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0757-pyramid-transition-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0231-power-of-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0645-set-mismatch) |
+| [0757-pyramid-transition-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0757-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0037-sudoku-solver](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0679-24-game) |
+| [0757-pyramid-transition-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0757-pyramid-transition-matrix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2174-next-greater-numerically-balanced-number) |
