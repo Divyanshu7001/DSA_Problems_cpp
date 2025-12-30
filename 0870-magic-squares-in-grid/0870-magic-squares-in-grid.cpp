@@ -36,26 +36,26 @@ private:
         }
 
         // Left-diagonal sum
-        int leftDiagonal = 0, row = rowIndex;
+        int diagonal = 0, row = rowIndex;
         col = colIndex;
         while (row < rowIndex + 3) {
-            leftDiagonal += grid[row][col];
+            diagonal += grid[row][col];
             row++;
             col++;
         }
-        if (leftDiagonal != 15)
+        if (diagonal != 15)
             return false;
 
         // right-diagonal sum
-        int rightDiagonal = 0;
+        diagonal = 0;
         row = rowIndex;
         col = colIndex + 2;
         while (row < rowIndex + 3) {
-            rightDiagonal += grid[row][col];
+            diagonal += grid[row][col];
             row++;
             col--;
         }
-        if (rightDiagonal != 15)
+        if (diagonal != 15)
             return false;
 
         return true;
