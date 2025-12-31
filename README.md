@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2023-design-movie-rental-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2023-design-movie-rental-system) |
 | [2058-concatenation-of-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2058-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0945-snakes-and-ladders](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0417-pacific-atlantic-water-flow](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2213-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0794-swim-in-rising-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2213-find-all-people-with-secret) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -707,6 +711,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2213-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3863-power-grid-maintenance) |
 ## Stack
@@ -757,6 +762,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1612-avoid-flood-in-the-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2263-maximum-running-time-of-n-computers) |
