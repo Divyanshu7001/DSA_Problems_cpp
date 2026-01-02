@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0981-delete-columns-to-make-sorted](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1018-largest-perimeter-triangle) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0870-magic-squares-in-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0940-fruit-into-baskets) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1006-vowel-spellchecker) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
