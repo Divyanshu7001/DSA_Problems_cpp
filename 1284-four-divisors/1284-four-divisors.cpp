@@ -1,11 +1,11 @@
-//T.C=O(sqrt(n))
-//S.C=O(n)
+// T.C=O(n)+O(sqrt(n))=>O(n)
+// S.C=O(n)
+
+// Just take care of perfect square case i.e 36=6*6..so we might take 6 two
+// times..which isnt good
 class Solution {
 public:
-    //unordered_map<int, int> mp;
     int solve(int num) {
-        // if (mp.count(num))
-        //     return mp[num];
         int ans = 1 + num, divCount = 2;
         for (int i = 2; i <= sqrt(num); i++) {
             if (num % i == 0) {
@@ -21,10 +21,6 @@ public:
                     break;
             }
         }
-        // if (divCount == 4) {
-        //     mp[num] = ans;
-        // } else
-        //     mp[num] = 0;
         return divCount == 4 ? ans : 0;
     }
 
