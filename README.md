@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3885-count-special-triplets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3886-count-number-of-trapezoids-i) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3934-coupon-code-validator) |
 ## Hash Table
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3885-count-special-triplets) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3886-count-number-of-trapezoids-i) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3934-coupon-code-validator) |
 ## Sorting
 |  |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3886-count-number-of-trapezoids-i) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3897-count-number-of-trapezoids-ii) |
 ## String
 |  |
 | ------- |
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3886-count-number-of-trapezoids-i) |
+| [3897-count-number-of-trapezoids-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Queue
 |  |
 | ------- |
