@@ -3,12 +3,11 @@ public:
     long long maxMatrixSum(vector<vector<int>>& matrix) {
 
         long long sum = 0;
-        int n = matrix.size(), negativeCount = 0, smallestNum = INT_MAX;
+        int negativeCount = 0, smallestNum = INT_MAX;
         bool isZeroPresent = false;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
+        for (int i = 0; i < matrix.size(); i++) {
+            for (int j = 0; j < matrix.size(); j++) {
                 int num = matrix[i][j];
-
                 if (num < 0) {
                     negativeCount++;
                 } else if (num == 0)
