@@ -655,6 +655,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0794-swim-in-rising-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0794-swim-in-rising-water) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2213-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -929,4 +931,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1465-maximum-product-of-splitted-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
