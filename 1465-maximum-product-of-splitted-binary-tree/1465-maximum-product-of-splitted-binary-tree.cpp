@@ -10,6 +10,9 @@
  * right(right) {}
  * };
  */
+
+//T.C=O(N)
+//T.C=O(n)if stack considered..else O(1)
 class Solution {
 public:
     long SUM = 0, maxProd = 0;
@@ -23,9 +26,9 @@ public:
             leftTreeSum = totalSum(root->left);
         if (root->right)
             rightTreeSum = totalSum(root->right);
-        int sum = root->val+leftTreeSum + rightTreeSum;
+        int sum = root->val + leftTreeSum + rightTreeSum;
 
-        maxProd = max(maxProd, (SUM-sum)*sum);
+        maxProd = max(maxProd, (SUM - sum) * sum);
 
         return sum;
     }
