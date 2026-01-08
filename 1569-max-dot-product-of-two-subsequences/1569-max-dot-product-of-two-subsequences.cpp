@@ -1,7 +1,8 @@
 class Solution {
 public:
     int m, n;
-    int t[501][501];
+    vector<vector<int>> t =
+        vector<vector<int>>(501, vector<int>(501, -1e9));
 
     int solve(vector<int>& nums1, vector<int>& nums2, int i, int j) {
 
@@ -23,10 +24,6 @@ public:
 
         m = nums1.size(), n = nums2.size();
 
-        for (int i = 0; i < 501; i++) {
-            for (int j = 0; j < 501; j++)
-                t[i][j] = -1e9;
-        }
         return solve(nums1, nums2, 0, 0);
     }
 };
