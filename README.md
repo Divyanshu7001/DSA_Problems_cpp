@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0645-set-mismatch](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0645-set-mismatch) |
 | [0757-pyramid-transition-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0757-pyramid-transition-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0870-magic-squares-in-grid) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0940-fruit-into-baskets) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Tree
 |  |
 | ------- |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1465-maximum-product-of-splitted-binary-tree) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0386-lexicographical-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0794-swim-in-rising-water) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0407-trapping-rain-water-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0794-swim-in-rising-water) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0945-snakes-and-ladders) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -936,6 +940,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Tree
 |  |
 | ------- |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1465-maximum-product-of-splitted-binary-tree) |
