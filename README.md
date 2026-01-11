@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0066-plus-one](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0120-triangle) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0198-house-robber) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0036-valid-sudoku](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0498-diagonal-traverse) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -927,6 +931,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Queue
