@@ -8,11 +8,7 @@ public:
             int currentX = points[i][0], currentY = points[i][1];
             int nextX = points[i + 1][0], nextY = points[i + 1][1];
 
-            int diffX = abs(nextX - currentX), diffY = abs(nextY - currentY);
-            if (diffY >= diffX)
-                res += diffY;
-            else
-                res += diffX;
+            res += max(abs(nextX - currentX), abs(nextY - currentY));
         }
 
         return res;
