@@ -20,9 +20,9 @@ public:
         sort(hBars.begin(), hBars.end());
         sort(vBars.begin(), vBars.end());
 
-        int maxConsecutiveHbars = solve(hBars);
-        int maxConsecutiveVbars = solve(vBars);
+        // int maxConsecutiveHbars = solve(hBars);
+        // int maxConsecutiveVbars = solve(vBars);
 
-        return pow(min(maxConsecutiveHbars, maxConsecutiveVbars) + 1, 2);
+        return pow(min(solve(hBars), solve(vBars)) + 1, 2);
     }
 };
