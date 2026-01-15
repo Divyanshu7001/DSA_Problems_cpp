@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3194-find-words-containing-character) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2887-sort-vowels-in-a-string) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
