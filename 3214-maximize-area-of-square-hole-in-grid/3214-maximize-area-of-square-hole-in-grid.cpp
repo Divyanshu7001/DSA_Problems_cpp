@@ -1,3 +1,5 @@
+//T.C=O(Nlogn+Mlogm)
+//S.C=O(1)
 class Solution {
 public:
     int solve(vector<int>& bars) {
