@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3321-type-of-triangle) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3321-type-of-triangle) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3336-water-bottles-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3336-water-bottles-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1395-minimum-time-visiting-all-points](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1395-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3897-count-number-of-trapezoids-ii) |
 ## Queue
