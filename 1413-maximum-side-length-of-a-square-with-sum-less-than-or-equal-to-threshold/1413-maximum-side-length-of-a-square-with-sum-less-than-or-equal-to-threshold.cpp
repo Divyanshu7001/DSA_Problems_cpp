@@ -35,7 +35,10 @@ public:
 
                 // offset loop => To check all the possible squares from a
                 // perticular point
-                for (int k = 0; k < min(rows - i, cols - j); k++) {
+
+                // k=best=>if we get a size of 2 square with sum<=threshold,then
+                // we should be looking for a better size one
+                for (int k = best; k < min(rows - i, cols - j); k++) {
                     int r2 = i + k, c2 = j + k;
 
                     int sum = sumSquare(i, j, r2, c2);
