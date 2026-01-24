@@ -9,8 +9,7 @@ public:
 
         int i=0,j=nums.size()-1,res=INT_MIN;
         while(i<j){
-            int sum = nums[i]+nums[j];
-            res=max(res,sum);
+            res=max(res,nums[i]+nums[j]);
             i++;
             j--;
         }
