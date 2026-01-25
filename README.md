@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2079-delete-duplicate-folders-in-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2213-find-all-people-with-secret](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2213-find-all-people-with-secret) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2215-finding-3-digit-even-numbers) |
@@ -802,6 +804,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0940-fruit-into-baskets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1813-maximum-erasure-value) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
