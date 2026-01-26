@@ -8,7 +8,9 @@ public:
         int minDiff = INT_MAX, n = arr.size();
 
         for (int i = 1; i < n; i++) {
-            minDiff = min(minDiff, abs(arr[i] - arr[i - 1]));
+            int diff = abs(arr[i] - arr[i - 1]);
+            if (minDiff > diff)
+                minDiff = diff;
         }
 
         for (int i = 1; i < n; i++) {
