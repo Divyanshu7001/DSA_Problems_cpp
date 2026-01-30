@@ -6,12 +6,15 @@ public:
     ll BIG_VALUE = 1e10;
     unordered_map<string, vector<pair<string, ll>>> adj; // Graph
 
+    unordered_map<string, unordered_map<string, ll>> dijikstraMemo;
     vector<ll> dpMemo;
 
     string sourceStr, targetStr;
     set<int> validLengths;
 
     ll dijikstra(string& start, string& end) {
+        if (dijikstraMemo[start].count(end))
+            return dijikstraMemo[start][end];
         //{cost,string}
         priority_queue<P, vector<P>, greater<P>> pq;
 
@@ -43,7 +46,7 @@ public:
 
         ll finalCost = result.count(end) ? result[end] : BIG_VALUE;
 
-        return finalCost;
+        return dijikstraMemo[start][end] = finalCost;
     }
 
     ll solve(int idx) {
