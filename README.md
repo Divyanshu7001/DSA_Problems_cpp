@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3194-find-words-containing-character) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -801,6 +804,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3238-minimum-cost-to-convert-string-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1006,9 +1010,11 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Graph Theory
 |  |
 | ------- |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
