@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0645-set-mismatch](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0645-set-mismatch) |
 | [0679-24-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0794-swim-in-rising-water) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0611-valid-triangle-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0794-swim-in-rising-water) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
