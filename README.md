@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3242-count-elements-with-maximum-frequency](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2689-rearranging-fruits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2479-meeting-rooms-iii) |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
