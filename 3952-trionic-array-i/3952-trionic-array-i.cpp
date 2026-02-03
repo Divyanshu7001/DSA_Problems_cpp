@@ -1,3 +1,4 @@
+//T.C=O(N)
 class Solution {
 public:
     bool isTrionic(vector<int>& nums) {
