@@ -1,4 +1,4 @@
-//T.C=O(N)
+// T.C=O(N)
 class Solution {
 public:
     bool isTrionic(vector<int>& nums) {
@@ -15,10 +15,9 @@ public:
                 } else if (changeCount == 2)
                     return false;
             } else if (nums[i] < nums[i + 1]) {
-                if (deflection != -1) {
+                if (deflection != -1) 
                     if (changeCount == 1)
                         changeCount = 2;
-                }
             } else if (nums[i] == nums[i + 1])
                 return false;
             i++;
