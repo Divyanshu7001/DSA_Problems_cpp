@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3897-count-number-of-trapezoids-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3952-trionic-array-i) |
+| [3956-trionic-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3956-trionic-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3956-trionic-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3956-trionic-array-ii) |
 ## Counting
 |  |
 | ------- |
