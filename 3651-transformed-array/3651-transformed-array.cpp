@@ -5,11 +5,7 @@ public:
         vector<int> res(n, 0);
 
         for (int i = 0; i < n; i++) {
-            int num = nums[i], change = 0;
-            if (num > 0 || num < 0) {
-                change = num % n;
-            }
-            int idx = (i + change + n) % n;
+            int idx = (i + (nums[i] % n) + n) % n;
             res[i] = nums[idx];
         }
 
