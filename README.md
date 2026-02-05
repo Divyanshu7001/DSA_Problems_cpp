@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3651-transformed-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3651-transformed-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3721-count-mentions-per-user](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3721-count-mentions-per-user) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3336-water-bottles-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3651-transformed-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3651-transformed-array) |
 | [3721-count-mentions-per-user](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3721-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
