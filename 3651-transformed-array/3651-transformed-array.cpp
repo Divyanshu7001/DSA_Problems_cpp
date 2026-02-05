@@ -7,9 +7,9 @@ public:
         for (int i = 0; i < n; i++) {
             int num = nums[i], change = 0;
             if (num > 0) {
-                change = abs(num % n);
+                change = num % n;
             } else if (num < 0) {
-                change = -abs(num % n);
+                change = num % n;
             }
             int idx = (i + change + n) % n;
             res[i] = nums[idx];
