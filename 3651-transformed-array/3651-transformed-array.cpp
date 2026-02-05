@@ -11,8 +11,7 @@ public:
             } else if (num < 0) {
                 change = -abs(num % n);
             }
-            int idx = abs((i + change + n)) % n;
-            cout << i << " " << idx << endl;
+            int idx = (i + change + n) % n;
             res[i] = nums[idx];
         }
 
