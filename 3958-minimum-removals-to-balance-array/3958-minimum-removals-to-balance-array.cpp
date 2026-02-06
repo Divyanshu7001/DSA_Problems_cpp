@@ -12,7 +12,7 @@ public:
             if ((long)nums[j] <= (long)nums[i] * k) {
                 maxBalance = max(maxBalance, (j - i + 1));
                 j++;
-            } else if (nums[j] > nums[i] * k)
+            } else
                 i++;
         }
         return n - maxBalance;
