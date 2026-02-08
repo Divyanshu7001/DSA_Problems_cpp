@@ -717,6 +717,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0110-balanced-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0110-balanced-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0794-swim-in-rising-water) |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0110-balanced-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
