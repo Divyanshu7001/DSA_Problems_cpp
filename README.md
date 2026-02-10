@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0759-set-intersection-size-at-least-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0759-set-intersection-size-at-least-two) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1018-largest-perimeter-triangle) |
+| [1285-balance-a-binary-search-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1285-balance-a-binary-search-tree) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1285-balance-a-binary-search-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1285-balance-a-binary-search-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -960,6 +963,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0023-merge-k-sorted-lists](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0169-majority-element) |
+| [1285-balance-a-binary-search-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1285-balance-a-binary-search-tree) |
 | [4045-longest-balanced-subarray-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4045-longest-balanced-subarray-i) |
 ## Ordered Set
 |  |
@@ -1029,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1285-balance-a-binary-search-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1285-balance-a-binary-search-tree) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 ## Doubly-Linked List
 |  |
@@ -1045,4 +1050,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
