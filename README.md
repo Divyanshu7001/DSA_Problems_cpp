@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3956-trionic-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3958-minimum-removals-to-balance-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4045-longest-balanced-subarray-i) |
+| [4047-longest-balanced-subarray-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4047-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3897-count-number-of-trapezoids-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3934-coupon-code-validator) |
 | [4045-longest-balanced-subarray-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4045-longest-balanced-subarray-i) |
+| [4047-longest-balanced-subarray-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4047-longest-balanced-subarray-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [4045-longest-balanced-subarray-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4045-longest-balanced-subarray-i) |
+| [4047-longest-balanced-subarray-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4047-longest-balanced-subarray-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -950,6 +953,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3790-fruits-into-baskets-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3791-fruits-into-baskets-iii) |
 | [4045-longest-balanced-subarray-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4045-longest-balanced-subarray-i) |
+| [4047-longest-balanced-subarray-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4047-longest-balanced-subarray-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -965,6 +969,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0169-majority-element) |
 | [1285-balance-a-binary-search-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1285-balance-a-binary-search-tree) |
 | [4045-longest-balanced-subarray-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4045-longest-balanced-subarray-i) |
+| [4047-longest-balanced-subarray-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4047-longest-balanced-subarray-ii) |
 ## Ordered Set
 |  |
 | ------- |
