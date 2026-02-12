@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3934-coupon-code-validator](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3934-coupon-code-validator) |
 | [4045-longest-balanced-subarray-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4047-longest-balanced-subarray-ii) |
+| [4055-longest-balanced-substring-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4055-longest-balanced-substring-i) |
 ## Sorting
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [4055-longest-balanced-substring-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4055-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3797-design-spreadsheet](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3934-coupon-code-validator) |
+| [4055-longest-balanced-substring-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4055-longest-balanced-substring-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3885-count-special-triplets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3885-count-special-triplets) |
+| [4055-longest-balanced-substring-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4055-longest-balanced-substring-i) |
 ## Greedy
 |  |
 | ------- |
