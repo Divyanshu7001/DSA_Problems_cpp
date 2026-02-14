@@ -489,6 +489,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0198-house-robber](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0474-ones-and-zeroes) |
+| [0815-champagne-tower](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0815-champagne-tower) |
 | [0867-new-21-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1000-delete-columns-to-make-sorted-iii) |
