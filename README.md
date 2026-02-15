@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0007-reverse-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0326-power-of-three) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0166-fraction-to-recurring-decimal) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0645-set-mismatch) |
@@ -893,6 +896,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2058-concatenation-of-array) |
