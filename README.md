@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0342-power-of-four](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0693-binary-number-with-alternating-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0757-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1071-binary-prefix-divisible-by-5) |
