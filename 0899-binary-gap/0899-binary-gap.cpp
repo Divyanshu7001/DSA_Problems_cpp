@@ -16,8 +16,13 @@ public:
     }
 
     int binaryGap(int n) {
-        string num = bitset<32>(n).to_string().substr(
-            bitset<32>(n).to_string().find('1'));
+        string num = "";
+
+        // Convert to binary
+        while (n > 0) {
+            num.push_back((n % 2) + '0');
+            n /= 2;
+        }
         return solve(num);
     }
 };
