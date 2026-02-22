@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0693-binary-number-with-alternating-bits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0693-binary-number-with-alternating-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0757-pyramid-transition-matrix) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0899-binary-gap](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0899-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
