@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1612-avoid-flood-in-the-city) |
 | [1694-make-sum-divisible-by-p](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1694-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1813-maximum-erasure-value) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0899-binary-gap](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0899-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -968,6 +971,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Function
 |  |
 | ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Segment Tree
 |  |
@@ -1084,4 +1088,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1285-balance-a-binary-search-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
