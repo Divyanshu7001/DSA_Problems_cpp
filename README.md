@@ -750,6 +750,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0110-balanced-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1285-balance-a-binary-search-tree) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0417-pacific-atlantic-water-flow](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0794-swim-in-rising-water) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1285-balance-a-binary-search-tree) |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0110-balanced-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1285-balance-a-binary-search-tree) |
