@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1636-number-of-substrings-with-only-1s](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1612-avoid-flood-in-the-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1917-maximum-average-pass-ratio) |
