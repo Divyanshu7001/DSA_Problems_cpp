@@ -1,3 +1,4 @@
+//T.C=O(MâNâ(M+N))
 class Solution {
 public:
     int res = 0, rows, cols;
@@ -21,7 +22,6 @@ public:
     }
 
     int numSpecial(vector<vector<int>>& mat) {
-
         rows = mat.size(), cols = mat[0].size();
 
         for (int i = 0; i < rows; i++) {
