@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Two Pointers
 |  |
 | ------- |
@@ -937,6 +938,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3763-separate-squares-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3791-fruits-into-baskets-iii) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Simulation
 |  |
 | ------- |
@@ -1116,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1129,4 +1132,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
