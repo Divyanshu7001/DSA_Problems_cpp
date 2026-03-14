@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -981,6 +982,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0401-binary-watch](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0679-24-game) |
 | [0757-pyramid-transition-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0757-pyramid-transition-matrix) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
