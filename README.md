@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3952-trionic-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3958-minimum-removals-to-balance-array) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3973-flip-square-submatrix-vertically) |
 | [4045-longest-balanced-subarray-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4047-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3973-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3797-design-spreadsheet](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3797-design-spreadsheet) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3889-minimum-cost-path-with-teleportations) |
+| [3973-flip-square-submatrix-vertically](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3973-flip-square-submatrix-vertically) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
