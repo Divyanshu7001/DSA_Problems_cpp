@@ -8,8 +8,6 @@ public:
             if (row == 0 || i > row)
                 break;
             for (int j = y; j < y + k; j++) {
-                cout << "Swapping " << grid[i][j] << " & " << grid[row][j]
-                     << endl;
                 swap(grid[i][j], grid[row][j]);
             }
 
