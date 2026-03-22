@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2023-design-movie-rental-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2023-design-movie-rental-system) |
 | [2058-concatenation-of-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2058-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2244-number-of-laser-beams-in-a-bank) |
