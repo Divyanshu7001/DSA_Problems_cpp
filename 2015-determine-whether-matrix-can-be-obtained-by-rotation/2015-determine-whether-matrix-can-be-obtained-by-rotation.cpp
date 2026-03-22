@@ -17,23 +17,28 @@ public:
             reverse(matrix[i].begin(), matrix[i].end());
         }
     }
+    bool isEqual(vector<vector<int>>& mat, vector<vector<int>>& target) {
+        bool equal = true;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (mat[i][j] != target[i][j]) {
+                    equal = false;
+                    break;
+                }
+            }
+            if (!equal)
+                break;
+        }
+        if (equal)
+            return true;
+        return false;
+    }
     bool findRotation(vector<vector<int>>& mat, vector<vector<int>>& target) {
         n = mat.size();
 
         // After 4 rotations, it becomes same matrix again
         for (int c = 1; c <= 4; c++) {
-            bool equal = true;
-            for (int i = 0; i < n; i++) {
-                for (int j = 0; j < n; j++) {
-                    if (mat[i][j] != target[i][j]) {
-                        equal = false;
-                        break;
-                    }
-                }
-                if (!equal)
-                    break;
-            }
-            if (equal)
+            if (isEqual(mat, target))
                 return true;
             rotate(mat);
         }
