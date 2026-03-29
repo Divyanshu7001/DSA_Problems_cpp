@@ -7,10 +7,8 @@ public:
         bool c2 = ((s1[1] == s2[1] && s1[3] == s2[3]) ||
                    (s1[1] == s2[3] && s1[3] == s2[1]));
 
-        if (c1 && c2)
-            return true;
-
-        return false;
+    
+        return c1 && c2;
     }
 };
 // class Solution {
