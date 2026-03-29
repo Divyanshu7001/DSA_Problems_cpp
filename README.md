@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2689-rearranging-fruits) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2887-sort-vowels-in-a-string) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2887-sort-vowels-in-a-string) |
+| [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
