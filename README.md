@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2689-rearranging-fruits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2846-robot-collisions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2846-robot-collisions) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3194-find-words-containing-character) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2479-meeting-rooms-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2689-rearranging-fruits) |
+| [2846-robot-collisions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2846-robot-collisions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2887-sort-vowels-in-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3214-maximize-area-of-square-hole-in-grid) |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2317-count-collisions-on-a-road](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2317-count-collisions-on-a-road) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2846-robot-collisions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2846-robot-collisions) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Trie
@@ -1000,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2479-meeting-rooms-iii) |
+| [2846-robot-collisions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3600-find-the-k-th-character-in-string-game-i) |
