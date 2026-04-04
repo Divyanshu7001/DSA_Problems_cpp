@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2107-find-unique-binary-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2058-concatenation-of-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2169-simple-bank-system) |
+| [2197-decode-the-slanted-ciphertext](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2288-count-operations-to-obtain-zero) |
