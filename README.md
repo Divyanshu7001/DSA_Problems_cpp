@@ -1008,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2058-concatenation-of-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2169-simple-bank-system) |
+| [2178-walking-robot-simulation-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2178-walking-robot-simulation-ii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -1057,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2169-simple-bank-system) |
+| [2178-walking-robot-simulation-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2178-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3797-design-spreadsheet) |
