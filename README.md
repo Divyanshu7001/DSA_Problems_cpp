@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3958-minimum-removals-to-balance-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3958-minimum-removals-to-balance-array) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3973-flip-square-submatrix-vertically) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [3975-xor-after-range-multiplication-queries-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [4045-longest-balanced-subarray-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4047-longest-balanced-subarray-ii) |
@@ -1103,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0763-special-binary-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0763-special-binary-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1285-balance-a-binary-search-tree) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3974-xor-after-range-multiplication-queries-i) |
+| [3975-xor-after-range-multiplication-queries-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3975-xor-after-range-multiplication-queries-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4047-longest-balanced-subarray-ii) |
 ## Ordered Set
