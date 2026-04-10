@@ -1,9 +1,9 @@
 class Solution {
 public:
-    int solve(unordered_map<int, vector<int>> mp) {
+    int solve(unordered_map<int, vector<int>>& mp) {
         int res = INT_MAX;
         for (auto& m : mp) {
-            vector<int> indexes = m.second;
+            vector<int>& indexes = m.second;
             int indexSize = indexes.size();
             if (indexSize >= 3) {
                 for (int i = 0; i < indexSize - 2; i++) {
