@@ -19,12 +19,12 @@ public:
         int n = nums.size();
         if (n < 3)
             return -1;
-        if (n == 3) {
-            if (nums[0] != nums[1] || nums[1] != nums[2])
-                return -1;
-            else
-                return 4;
-        }
+        // if (n == 3) {
+        //     if (nums[0] != nums[1] || nums[1] != nums[2])
+        //         return -1;
+        //     else
+        //         return 4;
+        // }
 
         unordered_map<int, vector<int>> mp;
         for (int i = 0; i < n; i++) {
