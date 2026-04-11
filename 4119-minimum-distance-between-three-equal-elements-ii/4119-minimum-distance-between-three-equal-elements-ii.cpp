@@ -8,7 +8,7 @@ public:
             if (indexSize >= 3) {
                 for (int i = 0; i < indexSize - 2; i++) {
                     int a = indexes[i], b = indexes[i + 1], c = indexes[i + 2];
-                    res = min(res, abs(a - b) + abs(b - c) + abs(c - a));
+                    res = min(res, 2 * abs(c - a));
                 }
             }
         }
