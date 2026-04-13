@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1834-minimum-number-of-people-to-teach](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1995-finding-pairs-with-a-certain-sum) |
