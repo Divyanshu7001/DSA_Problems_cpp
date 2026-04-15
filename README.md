@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2529-range-product-queries-of-powers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2529-range-product-queries-of-powers) |
 | [2554-minimum-total-distance-traveled](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2554-minimum-total-distance-traveled) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2429-design-a-food-rating-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2887-sort-vowels-in-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
