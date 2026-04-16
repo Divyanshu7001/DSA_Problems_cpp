@@ -1,3 +1,4 @@
+// T.C=O(N+Q*logN)
 class Solution {
 public:
     int bin_search(vector<int>& nums, int target) {
@@ -23,6 +24,7 @@ public:
             mp[nums[i]].push_back(i);
 
         vector<int> res(m, -1);
+        // O(Q*logN)
         for (int i = 0; i < m; i++) {
             int idx = queries[i];
             int val = nums[idx];
@@ -30,8 +32,8 @@ public:
                 continue;
 
             vector<int>& indexList = mp[val];
-            int indexListsz = indexList.size();
-            if (indexListsz == 2) {
+            int idxListSize = indexList.size();
+            if (idxListSize == 2) {
                 int dist = abs(indexList[1] - indexList[0]);
                 int circularDist = n - dist;
                 res[i] = min(dist, circularDist);
@@ -39,21 +41,15 @@ public:
             }
 
             int foundIndex = bin_search(indexList, idx);
-            if (foundIndex == 0) {
-                int forwardDist = abs(indexList[1] - indexList[0]);
+            if (foundIndex == 0 || foundIndex == idxListSize - 1) {
+                int dist;
+                if (foundIndex == 0)
+                    dist = abs(indexList[1] - indexList[0]);
+                else
+                    dist = abs(indexList[idxListSize - 1] -
+                               indexList[idxListSize - 2]);
                 int circularDist =
-                    n - abs(indexList[indexListsz - 1] - indexList[0]);
-                res[i] = min(forwardDist, circularDist);
-                continue;
-            }
-
-            if (foundIndex == indexListsz - 1) {
-                // cout << "where i thought";
-                int dist = abs(indexList[indexListsz - 1] -
-                               indexList[indexListsz - 2]);
-                int circularDist =
-                    n - abs(indexList[indexListsz - 1] - indexList[0]);
-
+                    n - abs(indexList[idxListSize - 1] - indexList[0]);
                 res[i] = min(dist, circularDist);
                 continue;
             }
