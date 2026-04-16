@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3748-sort-matrix-by-diagonals) |
+| [3750-closest-equal-element-queries](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3750-closest-equal-element-queries) |
 | [3763-separate-squares-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3763-separate-squares-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3678-design-task-manager](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3678-design-task-manager) |
+| [3750-closest-equal-element-queries](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3750-closest-equal-element-queries) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3750-closest-equal-element-queries](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3750-closest-equal-element-queries) |
 | [3763-separate-squares-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3791-fruits-into-baskets-iii) |
