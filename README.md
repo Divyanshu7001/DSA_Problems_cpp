@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3886-count-number-of-trapezoids-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3897-count-number-of-trapezoids-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
+| [4168-mirror-distance-of-an-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4168-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
