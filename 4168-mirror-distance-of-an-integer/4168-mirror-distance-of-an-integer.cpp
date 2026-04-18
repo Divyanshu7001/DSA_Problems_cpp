@@ -6,8 +6,7 @@ public:
             return 0;
 
         while (num > 0) {
-            int dig = num % 10;
-            rev = (rev * 10) + dig;
+            rev = (rev * 10) + (num % 10);
             num /= 10;
         }
         return abs(rev - n);
