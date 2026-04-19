@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0611-valid-triangle-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0696-count-binary-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1612-avoid-flood-in-the-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
