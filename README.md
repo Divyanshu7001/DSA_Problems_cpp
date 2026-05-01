@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0474-ones-and-zeroes) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0231-power-of-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0679-24-game) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0830-largest-triangle-area) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0120-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0474-ones-and-zeroes) |
 | [0815-champagne-tower](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0815-champagne-tower) |
 | [0867-new-21-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0867-new-21-game) |
