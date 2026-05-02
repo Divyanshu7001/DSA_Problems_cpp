@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0396-rotate-function](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0679-24-game) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0804-rotated-digits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0804-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0870-magic-squares-in-grid) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0322-coin-change](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0474-ones-and-zeroes) |
+| [0804-rotated-digits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0804-rotated-digits) |
 | [0815-champagne-tower](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0815-champagne-tower) |
 | [0867-new-21-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
