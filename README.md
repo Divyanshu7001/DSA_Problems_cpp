@@ -492,6 +492,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0696-count-binary-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0696-count-binary-substrings) |
 | [0757-pyramid-transition-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0757-pyramid-transition-matrix) |
 | [0763-special-binary-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0763-special-binary-string) |
+| [0812-rotate-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0812-rotate-string) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -1253,5 +1254,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0812-rotate-string) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3770-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
