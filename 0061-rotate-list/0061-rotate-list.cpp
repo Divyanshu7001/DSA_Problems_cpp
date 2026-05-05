@@ -25,21 +25,18 @@ public:
             return 0;
         if (k % n == 0)
             return head;
+
         int toTraverse = n - (k % n);
         ListNode* secondHead = head;
 
-        while (toTraverse) {
-            if (toTraverse == 1) {
-                ListNode* temp = secondHead->next;
-                secondHead->next = nullptr;
-                secondHead = temp;
-            } else {
-                secondHead = secondHead->next;
-            }
+        while (toTraverse > 1) {
+            secondHead = secondHead->next;
             toTraverse--;
         }
-
-        ListNode* temp = secondHead;
+        
+        ListNode* temp = secondHead->next;
+        secondHead->next = nullptr;
+        secondHead = temp;
         while (temp->next != nullptr)
             temp = temp->next;
         temp->next = head;
