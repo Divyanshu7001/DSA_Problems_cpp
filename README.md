@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1917-maximum-average-pass-ratio) |
+| [1972-rotating-the-box](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1972-rotating-the-box) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0611-valid-triangle-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0696-count-binary-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1972-rotating-the-box](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1972-rotating-the-box](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1972-rotating-the-box) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2089-maximum-matrix-sum) |
