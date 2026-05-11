@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2625-increment-submatrices-by-one) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2639-separate-the-digits-in-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -1078,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2479-meeting-rooms-iii) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2639-separate-the-digits-in-an-array) |
 | [2846-robot-collisions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3336-water-bottles-ii) |
