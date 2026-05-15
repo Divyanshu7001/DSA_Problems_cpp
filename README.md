@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0118-pascals-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0198-house-robber) |
@@ -1031,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0745-find-smallest-letter-greater-than-target) |
