@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1428-jump-game-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1447-jump-game-iv) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1447-jump-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1447-jump-game-iv) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -964,6 +966,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1428-jump-game-iii) |
+| [1447-jump-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1447-jump-game-iv) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2213-find-all-people-with-secret) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
