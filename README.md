@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2689-rearranging-fruits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2846-robot-collisions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2846-robot-collisions) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2892-check-if-array-is-good](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2892-check-if-array-is-good) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2634-minimum-common-value](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2634-minimum-common-value) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2689-rearranging-fruits) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2892-check-if-array-is-good](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -885,6 +887,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2529-range-product-queries-of-powers) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3307-find-the-maximum-sum-of-node-values) |
