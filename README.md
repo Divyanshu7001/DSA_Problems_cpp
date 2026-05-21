@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3321-type-of-triangle) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3334-apple-redistribution-into-boxes) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3242-count-elements-with-maximum-frequency](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3194-find-words-containing-character](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1018,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2079-delete-duplicate-folders-in-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2550-words-within-two-edits-of-dictionary](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2550-words-within-two-edits-of-dictionary) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
