@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0001-two-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0048-rotate-image) |
@@ -1049,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
