@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3763-separate-squares-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3763-separate-squares-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3775-separate-squares-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3775-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3791-fruits-into-baskets-iii) |
@@ -1083,6 +1084,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3750-closest-equal-element-queries](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3750-closest-equal-element-queries) |
 | [3763-separate-squares-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3763-separate-squares-i) |
+| [3775-separate-squares-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3775-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3791-fruits-into-baskets-iii) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
@@ -1176,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1728-fancy-sequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1728-fancy-sequence) |
+| [3775-separate-squares-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3775-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3791-fruits-into-baskets-iii) |
@@ -1311,4 +1314,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0812-rotate-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0812-rotate-string) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3770-lexicographically-smallest-generated-string) |
+## Sweep Line
+|  |
+| ------- |
+| [3775-separate-squares-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3775-separate-squares-ii) |
 <!---LeetCode Topics End-->
