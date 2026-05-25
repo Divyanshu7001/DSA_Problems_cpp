@@ -545,6 +545,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1818-maximum-score-from-removing-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2001-jump-game-vii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2001-jump-game-vii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1694-make-sum-divisible-by-p](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1694-make-sum-divisible-by-p) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2001-jump-game-vii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2529-range-product-queries-of-powers) |
@@ -1037,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0940-fruit-into-baskets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1813-maximum-erasure-value) |
+| [2001-jump-game-vii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
