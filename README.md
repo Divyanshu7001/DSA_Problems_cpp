@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3396-valid-word) |
+| [3405-count-the-number-of-special-characters-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
