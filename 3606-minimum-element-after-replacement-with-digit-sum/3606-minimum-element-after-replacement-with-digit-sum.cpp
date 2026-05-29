@@ -4,9 +4,13 @@ public:
         int minimum = INT_MAX;
         for (int& num : nums) {
             int res = 0;
-            while (num > 0) {
-                res += num % 10;
-                num /= 10;
+            if (num <= 9)
+                res = num;
+            else {
+                while (num > 0) {
+                    res += num % 10;
+                    num /= 10;
+                }
             }
             minimum = min(minimum, res);
         }
