@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3351-maximize-happiness-of-selected-children](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3376-longest-common-suffix-queries](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3376-longest-common-suffix-queries) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3435-block-placement-queries](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1090,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2618-maximize-the-minimum-powered-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2634-minimum-common-value](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2634-minimum-common-value) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3435-block-placement-queries](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3435-block-placement-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -1191,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1728-fancy-sequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1728-fancy-sequence) |
+| [3435-block-placement-queries](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3435-block-placement-queries) |
 | [3775-separate-squares-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3775-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3790-fruits-into-baskets-ii) |
@@ -1331,4 +1334,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3775-separate-squares-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3775-separate-squares-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3435-block-placement-queries) |
 <!---LeetCode Topics End-->
