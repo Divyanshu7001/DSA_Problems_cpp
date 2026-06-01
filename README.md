@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2245-destroying-asteroids](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2262-solving-questions-with-brainpower](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2262-solving-questions-with-brainpower) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2213-find-all-people-with-secret](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2213-find-all-people-with-secret) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2215-finding-3-digit-even-numbers) |
 | [2245-destroying-asteroids](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2245-destroying-asteroids) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
