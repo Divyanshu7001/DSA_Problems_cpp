@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3952-trionic-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3956-trionic-array-ii) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3958-minimum-removals-to-balance-array) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3973-flip-square-submatrix-vertically) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [3975-xor-after-range-multiplication-queries-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3975-xor-after-range-multiplication-queries-ii) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3934-coupon-code-validator) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3958-minimum-removals-to-balance-array) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Enumeration
 |  |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3770-lexicographically-smallest-generated-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2634-minimum-common-value](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2634-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3973-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
@@ -1109,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3790-fruits-into-baskets-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3791-fruits-into-baskets-iii) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3982-maximum-walls-destroyed-by-robots) |
 ## Simulation
 |  |
