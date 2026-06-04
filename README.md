@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3850-equal-sum-grid-partition-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4055-longest-balanced-substring-i) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
 | ------- |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3886-count-number-of-trapezoids-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4168-mirror-distance-of-an-integer) |
 ## String
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3981-jump-game-ix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3981-jump-game-ix) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3982-maximum-walls-destroyed-by-robots) |
 | [3986-maximum-path-score-in-a-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3986-maximum-path-score-in-a-grid) |
+| [4057-total-waviness-of-numbers-in-range-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 ## Counting
 |  |
 | ------- |
