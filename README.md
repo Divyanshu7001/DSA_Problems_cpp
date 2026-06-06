@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2639-separate-the-digits-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2639-separate-the-digits-in-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2689-rearranging-fruits) |
+| [2714-left-and-right-sum-differences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -803,6 +804,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2576-minimum-penalty-for-a-shop](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2625-increment-submatrices-by-one) |
+| [2714-left-and-right-sum-differences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2714-left-and-right-sum-differences) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
