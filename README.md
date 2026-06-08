@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2262-solving-questions-with-brainpower](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2262-solving-questions-with-brainpower) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2263-maximum-running-time-of-n-computers) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1972-rotating-the-box](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -1141,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2178-walking-robot-simulation-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2178-walking-robot-simulation-ii) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2288-count-operations-to-obtain-zero) |
 | [2317-count-collisions-on-a-road](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2317-count-collisions-on-a-road) |
