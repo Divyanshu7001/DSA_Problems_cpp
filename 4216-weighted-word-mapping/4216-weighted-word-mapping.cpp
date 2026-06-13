@@ -7,7 +7,7 @@ public:
             for (int i = 0; i < s.size(); i++) {
                 temp += weights[s[i] - 'a'];
             }
-            res += 'z' - (temp % 26);
+            res.push_back('z' - (temp % 26));
         }
         return res;
     }
