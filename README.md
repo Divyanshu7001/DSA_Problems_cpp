@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1972-rotating-the-box](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1972-rotating-the-box) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -1219,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0023-merge-k-sorted-lists](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0061-rotate-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
