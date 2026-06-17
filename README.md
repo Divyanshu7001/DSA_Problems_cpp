@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3931-process-string-with-special-operations-i) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3934-coupon-code-validator) |
+| [3939-process-string-with-special-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3939-process-string-with-special-operations-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4056-longest-balanced-substring-ii) |
 | [4216-weighted-word-mapping](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4216-weighted-word-mapping) |
@@ -1182,6 +1183,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3790-fruits-into-baskets-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3931-process-string-with-special-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3931-process-string-with-special-operations-i) |
+| [3939-process-string-with-special-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3939-process-string-with-special-operations-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4216-weighted-word-mapping](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4216-weighted-word-mapping) |
 ## Backtracking
