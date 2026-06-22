@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1064-smallest-integer-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1297-maximum-number-of-balloons](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1447-jump-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1447-jump-game-iv) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1006-vowel-spellchecker](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1297-maximum-number-of-balloons](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0387-first-unique-character-in-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0900-reordered-power-of-2) |
+| [1297-maximum-number-of-balloons](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1297-maximum-number-of-balloons) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1986-largest-color-value-in-a-directed-graph) |
