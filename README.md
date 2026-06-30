@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1297-maximum-number-of-balloons](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1447-jump-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1447-jump-game-iv) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0594-longest-harmonious-subsequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0940-fruit-into-baskets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1813-maximum-erasure-value) |
 | [2001-jump-game-vii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2001-jump-game-vii) |
