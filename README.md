@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1018-largest-perimeter-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1018-largest-perimeter-triangle) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1234-number-of-paths-with-max-score](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1234-number-of-paths-with-max-score) |
 | [1284-four-divisors](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1311-largest-magic-square) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1234-number-of-paths-with-max-score](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1234-number-of-paths-with-max-score) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -869,6 +871,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0794-swim-in-rising-water](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0870-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0945-snakes-and-ladders) |
+| [1234-number-of-paths-with-max-score](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1234-number-of-paths-with-max-score) |
 | [1311-largest-magic-square](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1311-largest-magic-square) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
