@@ -1,14 +1,36 @@
 class Solution {
 public:
     int n, MOD = 1e9 + 7;
-    vector<vector<pair<int, int>>> t;
-    int getIntFromChar(char ch) { return ch == 'S' ? 0 : ch - '0'; }
+    typedef pair<int,int>P;
+    vector<vector<P>> t;
 
     bool isValid(int i, int j, vector<string>& board) {
         return i >= 0 && i < n && j >= 0 && j < n && board[i][j] != 'X';
     }
 
-    pair<int, int> solve(int i, int j, vector<string>& board) {
+    void findScoreAndPaths(int i, int j, vector<string>& board, int& currScore,
+                           int& currPaths, char ch, char side) {
+        if (side == 'U') {
+            i--;
+        } else if (side == 'L') {
+            j--;
+        } else {
+            i--;
+            j--;
+        }
+
+        if (isValid(i, j, board)) { // UP
+            auto [score, paths] = solve(i, j, board);
+            currScore = score;
+            currPaths = paths;
+
+            if (currPaths > 0) {
+                currScore += ch == 'S' ? 0 : ch - '0';
+            }
+        }
+    }
+
+    P solve(int i, int j, vector<string>& board) {
 
         if (board[i][j] == 'E')
             return make_pair(0, 1);
@@ -25,72 +47,41 @@ public:
 
         char ch = board[i][j];
 
-        if (isValid(i - 1, j, board)) { // UP
-            auto [score, paths] = solve(i - 1, j, board);
-            upScore = score;
-            upPaths = paths;
-
-            if (upPaths > 0) {
-                upScore += getIntFromChar(ch);
-            }
-        }
-
-        if (isValid(i, j - 1, board)) { // LEFT
-            auto [score, paths] = solve(i, j - 1, board);
-            leftScore = score;
-            leftPaths = paths;
-
-            if (leftPaths > 0) {
-                leftScore += getIntFromChar(ch);
-            }
-        }
-
-        if (isValid(i - 1, j - 1, board)) { // DIAG
-            auto [score, paths] = solve(i - 1, j - 1, board);
-            diagScore = score;
-            diagPaths = paths;
-
-            if (diagPaths > 0) {
-                diagScore += getIntFromChar(ch);
-            }
-        }
+        // UP calls
+        findScoreAndPaths(i, j, board, upScore, upPaths, ch, 'U');
+        // LEFT calls
+        findScoreAndPaths(i, j, board, leftScore, leftPaths, ch, 'L');
+        // DIAGONAL calls
+        findScoreAndPaths(i, j, board, diagScore, diagPaths, ch, 'D');
 
         // Find Best One
-        int bestScore, bestPaths;
+        int bestScore = upScore, bestPaths = upPaths;
         if (upScore == leftScore && leftScore == diagScore) {
             bestScore = upScore;
             bestPaths = upPaths + leftPaths + diagPaths;
         } else if (upScore == leftScore) {
             bestScore = upScore;
             bestPaths = upPaths + leftPaths;
-            if (diagScore > bestScore ||
-                (diagScore > bestScore && diagPaths > bestPaths)) {
-                bestScore = diagScore;
-                bestPaths = diagPaths;
-            }
         } else if (leftScore == diagScore) {
             bestScore = leftScore;
             bestPaths = leftPaths + diagPaths;
-            if (upScore > bestScore ||
-                (upScore > bestScore && upPaths > bestPaths)) {
-                bestScore = upScore;
-                bestPaths = upPaths;
-            }
-        } else {
+        }
+
+        if (upScore > bestScore ||
+            (upScore > bestScore && upPaths > bestPaths)) {
             bestScore = upScore;
             bestPaths = upPaths;
+        }
+        if (leftScore > bestScore ||
+            (leftScore == bestScore && leftPaths > bestPaths)) {
+            bestScore = leftScore;
+            bestPaths = leftPaths;
+        }
 
-            if (leftScore > bestScore ||
-                (leftScore == bestScore && leftPaths > bestPaths)) {
-                bestScore = leftScore;
-                bestPaths = leftPaths;
-            }
-
-            if (diagScore > bestScore ||
-                (diagScore == bestScore && diagPaths > bestPaths)) {
-                bestScore = diagScore;
-                bestPaths = diagPaths;
-            }
+        if (diagScore > bestScore ||
+            (diagScore == bestScore && diagPaths > bestPaths)) {
+            bestScore = diagScore;
+            bestPaths = diagPaths;
         }
 
         return t[i][j] = make_pair(bestScore, bestPaths % MOD);
@@ -98,8 +89,8 @@ public:
 
     vector<int> pathsWithMaxScore(vector<string>& board) {
         n = board.size();
-        t.assign(n, vector<pair<int, int>>(n, {-1, -1}));
-        pair<int, int> res = solve(n - 1, n - 1, board);
+        t.assign(n, vector<P>(n, {-1, -1}));
+        P res = solve(n - 1, n - 1, board);
 
         return {res.first, res.second};
     }
