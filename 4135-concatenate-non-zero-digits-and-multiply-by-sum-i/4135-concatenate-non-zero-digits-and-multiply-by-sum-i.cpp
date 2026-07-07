@@ -2,19 +2,18 @@ class Solution {
 public:
     long long sumAndMultiply(int n) {
 
-        long long res = 0;
-        string s = to_string(n);
-        int sum = 0;
-        string tmp = "";
-        for (int i = 0; i < s.length(); i++) {
-            if (s[i] == '0')
+        long long res = 0; 
+        int sum = 0, pow = 1;
+        while (n > 0) {
+            int rem = n % 10;
+            n /= 10;
+            if (rem == 0)
                 continue;
-            sum += s[i] - '0';
-            tmp.push_back(s[i]);
-        }
 
-        stringstream ss(tmp);
-        ss >> res;
+            res = (rem * pow) + res;
+            pow *= 10;
+            sum += rem;
+        }
         return res * sum;
     }
 };
