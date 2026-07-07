@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3897-count-number-of-trapezoids-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4057-total-waviness-of-numbers-in-range-i) |
+| [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4168-mirror-distance-of-an-integer) |
 ## String
