@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4168-mirror-distance-of-an-integer) |
 ## String
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3939-process-string-with-special-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3939-process-string-with-special-operations-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4056-longest-balanced-substring-ii) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4216-weighted-word-mapping](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4216-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [4045-longest-balanced-subarray-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4047-longest-balanced-subarray-ii) |
 | [4056-longest-balanced-substring-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4056-longest-balanced-substring-ii) |
+| [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
 | ------- |
