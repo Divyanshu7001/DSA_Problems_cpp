@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3850-equal-sum-grid-partition-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3850-equal-sum-grid-partition-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3863-power-grid-maintenance) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3721-count-mentions-per-user](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3721-count-mentions-per-user) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3748-sort-matrix-by-diagonals) |
 | [3819-count-covered-buildings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3819-count-covered-buildings) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3934-coupon-code-validator) |
 | [3958-minimum-removals-to-balance-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3958-minimum-removals-to-balance-array) |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3854-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3854-maximum-profit-from-trading-stocks-with-discounts) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4005-maximum-total-subarray-value-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4005-maximum-total-subarray-value-i) |
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2634-minimum-common-value](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2634-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3973-flip-square-submatrix-vertically) |
 ## Prefix Sum
@@ -975,6 +980,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
 | ------- |
@@ -1166,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3790-fruits-into-baskets-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3791-fruits-into-baskets-iii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3982-maximum-walls-destroyed-by-robots) |
@@ -1375,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [3852-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 ## Shortest Path
