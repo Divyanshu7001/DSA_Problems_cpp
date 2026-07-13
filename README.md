@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0900-reordered-power-of-2) |
+| [1212-sequential-digits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1212-sequential-digits) |
 | [2037-count-square-sum-triples](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2037-count-square-sum-triples) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
