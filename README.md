@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1336,6 +1339,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Merge Sort
