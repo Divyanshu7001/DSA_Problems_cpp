@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4216-weighted-word-mapping](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3958-minimum-removals-to-balance-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3958-minimum-removals-to-balance-array) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3982-maximum-walls-destroyed-by-robots](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3982-maximum-walls-destroyed-by-robots) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4139-minimum-absolute-distance-between-mirror-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4139-minimum-absolute-distance-between-mirror-pairs) |
 | [4168-mirror-distance-of-an-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4168-mirror-distance-of-an-integer) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3973-flip-square-submatrix-vertically](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3973-flip-square-submatrix-vertically) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1223,6 +1227,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3939-process-string-with-special-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3939-process-string-with-special-operations-ii) |
 | [3974-xor-after-range-multiplication-queries-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3974-xor-after-range-multiplication-queries-i) |
 | [4216-weighted-word-mapping](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4216-weighted-word-mapping) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -1342,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
 |  |
 | ------- |
