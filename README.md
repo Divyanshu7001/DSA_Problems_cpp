@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3886-count-number-of-trapezoids-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3897-count-number-of-trapezoids-ii) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4057-total-waviness-of-numbers-in-range-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4057-total-waviness-of-numbers-in-range-i) |
 | [4135-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [4136-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -1358,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3933-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3933-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3995-gcd-of-odd-and-even-sums](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3995-gcd-of-odd-and-even-sums) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Merge Sort
 |  |
