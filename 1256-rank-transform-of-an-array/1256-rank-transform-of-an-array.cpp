@@ -8,17 +8,16 @@ public:
 
         map<int, vector<int>> mp;
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++)
             mp[arr[i]].push_back(i);
-        }
+        
 
         vector<int> res(n, 0);
         int rnk = 1;
 
         for (auto& p : mp) {
             int num = p.first;
-            const vector<int>& list = p.second;
-            for (int idx : list)
+            for (int&idx : p.second)
                 res[idx] = rnk;
 
             rnk++;
