@@ -21,10 +21,13 @@ public:
             if (taken[idx])
                 continue;
 
-            while (result.length() > 0 && result.back() > ch &&
-                   lastIdx[result.back() - 'a'] > i) {
-                taken[result.back() - 'a'] = false;
-                result.pop_back();
+            while (result.length() > 0) {
+                char last_curr = result.back();
+                if (last_curr > ch && lastIdx[last_curr - 'a'] > i) {
+                    taken[last_curr - 'a'] = false;
+                    result.pop_back();
+                } else
+                    break;
             }
 
             result.push_back(ch);
