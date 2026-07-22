@@ -1,6 +1,6 @@
-// Approach (Binary search and Segment Tree)
-// T.C : O(n + qlog(n))
-// S.C : O(n+q)
+//Approach (Binary search and Segment Tree)
+//T.C : O(n + qlog(n))
+//S.C : O(n+q)
 void buildSegmentTree(int i, int l, int r, int segmentTree[], int arr[]) {
     if (l == r) {
         segmentTree[i] = arr[l];
