@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3797-design-spreadsheet](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3797-design-spreadsheet) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3819-count-covered-buildings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3819-count-covered-buildings) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3830-find-closest-person](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3830-find-closest-person) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3852-path-existence-queries-in-a-graph-ii) |
