@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1006-vowel-spellchecker](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1018-largest-perimeter-triangle) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1222-remove-covered-intervals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1222-remove-covered-intervals) |
 | [1234-number-of-paths-with-max-score](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1234-number-of-paths-with-max-score) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0867-new-21-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1234-number-of-paths-with-max-score](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1234-number-of-paths-with-max-score) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1388-greatest-sum-divisible-by-three) |
@@ -1165,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0594-longest-harmonious-subsequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0940-fruit-into-baskets) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1813-maximum-erasure-value) |
