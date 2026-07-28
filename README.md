@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3647-zero-array-transformation-iii) |
 | [3721-count-mentions-per-user](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3721-count-mentions-per-user) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3748-sort-matrix-by-diagonals) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3819-count-covered-buildings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3819-count-covered-buildings) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3859-maximum-product-of-two-digits) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3797-design-spreadsheet](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3797-design-spreadsheet) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3931-process-string-with-special-operations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3931-process-string-with-special-operations-i) |
 | [3934-coupon-code-validator](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3934-coupon-code-validator) |
@@ -1420,6 +1422,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1961-maximum-ice-cream-bars) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Binary Tree
 |  |
 | ------- |
