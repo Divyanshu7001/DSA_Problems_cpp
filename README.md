@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3201-distribute-candies-among-children-ii) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -653,6 +654,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3194-find-words-containing-character](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3376-longest-common-suffix-queries](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3376-longest-common-suffix-queries) |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3351-maximize-happiness-of-selected-children) |
