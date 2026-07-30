@@ -6,8 +6,8 @@ public:
         if (idx >= n)
             return 0;
 
-        if (dp[idx][P + 1] != -1)
-            return dp[idx][P + 1];
+        if (P != -1 && dp[idx][P] != -1)
+            return dp[idx][P];
 
         int take = 0, skip = 0;
         if (P == -1 || nums[idx] > nums[P])
@@ -15,12 +15,12 @@ public:
 
         skip = solve(idx + 1, P, nums);
 
-        return dp[idx][P + 1] = max(take, skip);
+        return P != -1 ? (dp[idx][P] = max(take, skip)) : max(take, skip);
     }
 
     int lengthOfLIS(vector<int>& nums) {
         n = nums.size();
-        dp.resize(n, vector<int>(n + 1, -1));
+        dp.resize(n + 1, vector<int>(n + 1, -1));
 
         return solve(0, -1, nums);
     }
