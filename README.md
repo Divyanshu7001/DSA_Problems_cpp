@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2023-design-movie-rental-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2023-design-movie-rental-system) |
 | [2043-cyclically-rotating-a-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2043-cyclically-rotating-a-grid) |
 | [2058-concatenation-of-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2058-concatenation-of-array) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2001-jump-game-vii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2001-jump-game-vii) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
