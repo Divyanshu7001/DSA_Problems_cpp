@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0417-pacific-atlantic-water-flow](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0611-valid-triangle-number) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0326-power-of-three](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0679-24-game) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0322-coin-change](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0486-predict-the-winner) |
 | [0804-rotated-digits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0804-rotated-digits) |
 | [0815-champagne-tower](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0815-champagne-tower) |
 | [0867-new-21-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0867-new-21-game) |
@@ -1308,6 +1311,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0231-power-of-two](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0486-predict-the-winner) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1501,4 +1505,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3435-block-placement-queries](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3435-block-placement-queries) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
