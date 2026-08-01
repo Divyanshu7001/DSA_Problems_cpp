@@ -493,6 +493,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0007-reverse-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0166-fraction-to-recurring-decimal) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0120-triangle) |
@@ -1137,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3201-distribute-candies-among-children-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3583-sorted-gcd-pair-queries) |
