@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0830-largest-triangle-area](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0906-walking-robot-simulation) |
+| [0909-stone-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0945-snakes-and-ladders) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0867-new-21-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0900-reordered-power-of-2) |
+| [0909-stone-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1284-four-divisors) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0804-rotated-digits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0804-rotated-digits) |
 | [0815-champagne-tower](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0815-champagne-tower) |
 | [0867-new-21-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0867-new-21-game) |
+| [0909-stone-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0909-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -1515,4 +1518,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0486-predict-the-winner) |
+| [0909-stone-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
