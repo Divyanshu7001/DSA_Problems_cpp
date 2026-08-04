@@ -1,11 +1,9 @@
 class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-
-        int maxEle = *max_element(nums.begin(), nums.end());
-        vector<int> freq(maxEle, 0);
-
-        int minEle = INT_MAX;
+        int freq[101] = {0};
+        int minEle = INT_MAX, maxEle = *max_element(nums.begin(), nums.end());
+        
         for (int& num : nums) {
             freq[num - 1] = 1;
             minEle = min(minEle, num);
