@@ -1119,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3561-remove-methods-from-project](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3561-remove-methods-from-project) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3842-number-of-ways-to-assign-edge-weights-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3842-number-of-ways-to-assign-edge-weights-ii) |
@@ -1141,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1447-jump-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1447-jump-game-iv) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2213-find-all-people-with-secret) |
+| [3561-remove-methods-from-project](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3561-remove-methods-from-project) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3863-power-grid-maintenance) |
@@ -1480,6 +1482,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3238-minimum-cost-to-convert-string-ii) |
+| [3561-remove-methods-from-project](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3561-remove-methods-from-project) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3838-path-existence-queries-in-a-graph-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3887-minimum-cost-path-with-edge-reversals) |
