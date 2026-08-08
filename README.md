@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3617-find-the-original-typed-string-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -767,6 +768,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3647-zero-array-transformation-iii) |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2634-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3852-path-existence-queries-in-a-graph-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3852-path-existence-queries-in-a-graph-ii) |
 | [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
