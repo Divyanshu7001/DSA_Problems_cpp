@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1448-maximum-69-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1448-maximum-69-number) |
 | [1522-stone-game-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1522-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1642-water-bottles) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1545,14 +1547,25 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0909-stone-game](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
