@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3194-find-words-containing-character](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3194-find-words-containing-character) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2892-check-if-array-is-good](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2892-check-if-array-is-good](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -1564,7 +1567,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
-## SpragueâGrundy Theorem
+## SpragueÃ¢ÂÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
