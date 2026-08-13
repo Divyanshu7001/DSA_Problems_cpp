@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2306-create-binary-tree-from-descriptions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2317-count-collisions-on-a-road](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2317-count-collisions-on-a-road) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2429-design-a-food-rating-system) |
@@ -1385,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1728-fancy-sequence](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1728-fancy-sequence) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3435-block-placement-queries](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3435-block-placement-queries) |
 | [3775-separate-squares-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3775-separate-squares-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -1417,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2023-design-movie-rental-system) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2429-design-a-food-rating-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3678-design-task-manager) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -1570,7 +1574,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
-## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
