@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2156-stone-game-ix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2156-stone-game-ix) |
 | [2169-simple-bank-system](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2037-count-square-sum-triples](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2037-count-square-sum-triples) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2156-stone-game-ix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2156-stone-game-ix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2156-stone-game-ix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2156-stone-game-ix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3019-furthest-point-from-origin](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3019-furthest-point-from-origin) |
@@ -859,6 +862,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2089-maximum-matrix-sum) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2156-stone-game-ix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2156-stone-game-ix) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -1561,23 +1565,27 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1240-stone-game-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2156-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2156-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+| [2156-stone-game-ix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2156-stone-game-ix) |
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
