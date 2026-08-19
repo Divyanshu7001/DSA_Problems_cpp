@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1487-cinema-seat-allocation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1487-cinema-seat-allocation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1522-stone-game-iii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1522-stone-game-iii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1569-max-dot-product-of-two-subsequences) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1447-jump-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1487-cinema-seat-allocation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1487-cinema-seat-allocation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1612-avoid-flood-in-the-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1612-avoid-flood-in-the-city) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1388-greatest-sum-divisible-by-three](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1487-cinema-seat-allocation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1487-cinema-seat-allocation) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1065,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1054-complement-of-base-10-integer](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1487-cinema-seat-allocation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1487-cinema-seat-allocation) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -1587,7 +1591,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
 | [2156-stone-game-ix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2156-stone-game-ix) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
