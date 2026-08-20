@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3334-apple-redistribution-into-boxes) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3376-longest-common-suffix-queries](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3376-longest-common-suffix-queries) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -1332,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2846-robot-collisions](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2846-robot-collisions) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3336-water-bottles-ii) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3651-transformed-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3651-transformed-array) |
@@ -1591,7 +1593,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
 | [2156-stone-game-ix](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2156-stone-game-ix) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1617-stone-game-iv) |
