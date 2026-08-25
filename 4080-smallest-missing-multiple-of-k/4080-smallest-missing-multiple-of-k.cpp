@@ -2,13 +2,15 @@ class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
 
-        unordered_set<int> st(nums.begin(), nums.end());
+        vector<bool> isPresent(201, false);
+        for (int& num : nums)
+            isPresent[num - 1] = true;
         int i = 1;
         while (true) {
             k *= i;
-            if (!st.count(k))
+            if (isPresent[k - 1] == false)
                 break;
-            k/=i;
+            k /= i;
             i++;
         }
 
