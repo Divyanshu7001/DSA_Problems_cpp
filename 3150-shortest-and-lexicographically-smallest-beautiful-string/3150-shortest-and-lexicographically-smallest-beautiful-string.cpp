@@ -27,11 +27,10 @@ public:
                     }
                 }
                 
-                // Fixed: Decrement oneCount if s[i] is '1'
+                // over than k ..so shrink
                 if (s[i] == '1') {
                     oneCount--;
                 }
-                // Fixed: Use i++ instead of i-- to prevent out-of-bounds runtime errors
                 i++;
             }
             j++;
