@@ -37,14 +37,10 @@ public:
         if (st.size() < 2)
             return {-1, -1};
 
-        if (st.size() == 2)
-            return {st[1] - st[0], st[1] - st[0]};
-
         int minRes = INT_MAX;
-        for (int i = 1; i < st.size(); i++) {
-            if (st[i] - st[i - 1] < minRes)
-                minRes = st[i] - st[i - 1];
-        }
+        for (int i = 1; i < st.size(); i++)
+            minRes = min(minRes, st[i] - st[i - 1]);
+
         return {minRes, st[st.size() - 1] - st[0]};
     }
 };
