@@ -26,9 +26,9 @@ public:
         dh = head->next;
         while (dh->next != nullptr) {
             if ((dh->val > prev && dh->val > dh->next->val) ||
-                (dh->val < prev && dh->val < dh->next->val)) {
+                (dh->val < prev && dh->val < dh->next->val))
                 st.push_back(i);
-            }
+
             prev = dh->val;
             i++;
             dh = dh->next;
