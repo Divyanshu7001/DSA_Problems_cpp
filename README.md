@@ -8,6 +8,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4256-construct-uniform-parity-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4256-construct-uniform-parity-array-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Math
+|  |
+| ------- |
+| [4256-construct-uniform-parity-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4256-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
