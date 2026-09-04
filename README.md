@@ -11,6 +11,7 @@
 | [4256-construct-uniform-parity-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4285-smallest-stable-index-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -53,4 +54,5 @@
 |  |
 | ------- |
 | [4284-smallest-stable-index-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4284-smallest-stable-index-i) |
+| [4285-smallest-stable-index-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4285-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
