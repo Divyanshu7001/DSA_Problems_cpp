@@ -10,6 +10,7 @@
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4258-construct-uniform-parity-array-ii) |
+| [4284-smallest-stable-index-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4284-smallest-stable-index-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -48,4 +49,8 @@
 | ------- |
 | [4256-construct-uniform-parity-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4258-construct-uniform-parity-array-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [4284-smallest-stable-index-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4284-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
