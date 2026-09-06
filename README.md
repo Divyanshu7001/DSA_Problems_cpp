@@ -58,4 +58,12 @@
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [4284-smallest-stable-index-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4285-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
