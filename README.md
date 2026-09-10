@@ -70,4 +70,16 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0977-distinct-subsequences-ii) |
+## Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
