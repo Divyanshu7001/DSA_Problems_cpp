@@ -7,6 +7,7 @@
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4256-construct-uniform-parity-array-i) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1793-minimum-moves-to-make-array-complementary) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -82,4 +84,12 @@
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3799-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
