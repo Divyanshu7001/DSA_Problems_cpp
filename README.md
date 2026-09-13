@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0864-image-overlap](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0864-image-overlap) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -50,6 +51,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0864-image-overlap](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0864-image-overlap) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
