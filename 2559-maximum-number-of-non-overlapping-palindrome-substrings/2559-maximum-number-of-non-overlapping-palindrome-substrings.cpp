@@ -4,11 +4,10 @@ public:
     int n;
     bool isPalindrome(string& s, int i, int j) {
         while (i < j) {
-            if (s[i] == s[j]) {
-                i++;
-                j--;
-            } else
+            if (s[i] != s[j]) 
                 return false;
+            i++;
+            j--;
         }
         return true;
     }
