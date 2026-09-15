@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -72,11 +73,13 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0977-distinct-subsequences-ii) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0977-distinct-subsequences-ii) |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
@@ -106,4 +109,8 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0866-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
