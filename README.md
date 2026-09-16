@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0866-rectangle-overlap) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4245-count-commas-in-range](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4256-construct-uniform-parity-array-i) |
@@ -65,6 +66,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [4284-smallest-stable-index-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4285-smallest-stable-index-ii) |
@@ -79,6 +81,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0977-distinct-subsequences-ii) |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Tree
@@ -113,4 +116,8 @@
 |  |
 | ------- |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
