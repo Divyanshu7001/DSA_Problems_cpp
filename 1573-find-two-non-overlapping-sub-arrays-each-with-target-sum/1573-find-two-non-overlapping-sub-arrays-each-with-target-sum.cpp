@@ -2,14 +2,15 @@ class Solution {
 public:
     int minSumOfLengths(vector<int>& arr, int target) {
         int n = arr.size();
-        if (n < 2) return -1;
+        if (n < 2)
+            return -1;
 
         // dp[i] stores the minimum length of a valid subarray in arr[0...i]
         vector<int> dp(n, INT_MAX);
-        
-        int sum = 0, left = 0, min_len = INT_MAX, ans = INT_MAX;
 
-        for (int right = 0; right < n; ++right) {
+        int sum = 0, left = 0, right = 0, min_len = INT_MAX, ans = INT_MAX;
+
+        while (right < n) {
             sum += arr[right];
 
             while (sum > target) {
@@ -20,15 +21,17 @@ public:
             if (sum == target) {
                 int curr_len = right - left + 1;
 
-                // Check if there is a valid non-overlapping subarray to the left
+                // Check if there is a valid non-overlapping subarray to the
+                // left
                 if (left > 0 && dp[left - 1] != INT_MAX) {
                     ans = min(ans, curr_len + dp[left - 1]);
                 }
 
                 min_len = min(min_len, curr_len);
             }
-            
+
             dp[right] = min_len;
+            right++;
         }
 
         return ans == INT_MAX ? -1 : ans;
