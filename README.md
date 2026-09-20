@@ -6,6 +6,7 @@
 | ------- |
 | [0864-image-overlap](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0864-image-overlap) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1685-stone-game-v](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1685-stone-game-v) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0866-rectangle-overlap](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1501-circle-and-rectangle-overlapping) |
+| [1685-stone-game-v](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1685-stone-game-v) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [4245-count-commas-in-range](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4248-count-commas-in-range-ii) |
@@ -90,6 +92,7 @@
 | [0115-distinct-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0977-distinct-subsequences-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1685-stone-game-v](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1685-stone-game-v) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -139,4 +142,8 @@
 |  |
 | ------- |
 | [3811-reverse-degree-of-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3811-reverse-degree-of-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [1685-stone-game-v](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1685-stone-game-v) |
 <!---LeetCode Topics End-->
