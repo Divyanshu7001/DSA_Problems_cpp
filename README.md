@@ -27,6 +27,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1188-brace-expansion-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
@@ -48,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1188-brace-expansion-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1188-brace-expansion-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -57,6 +59,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1188-brace-expansion-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1188-brace-expansion-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -88,6 +91,7 @@
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0115-distinct-subsequences) |
 | [0977-distinct-subsequences-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0977-distinct-subsequences-ii) |
+| [1188-brace-expansion-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3811-reverse-degree-of-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3811-reverse-degree-of-a-string) |
@@ -153,4 +157,12 @@
 |  |
 | ------- |
 | [1685-stone-game-v](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1685-stone-game-v) |
+## Backtracking
+|  |
+| ------- |
+| [1188-brace-expansion-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1188-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1188-brace-expansion-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1188-brace-expansion-ii) |
 <!---LeetCode Topics End-->
