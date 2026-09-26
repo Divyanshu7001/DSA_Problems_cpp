@@ -1,7 +1,7 @@
 class Solution {
 public:
     unordered_map<string, string> mp;
-    string solve(string key) {
+    string solve(string& key) {
         string res = "?";
         if (mp.count(key))
             return mp[key];
