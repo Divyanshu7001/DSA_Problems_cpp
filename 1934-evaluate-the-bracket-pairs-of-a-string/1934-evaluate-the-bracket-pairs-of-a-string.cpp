@@ -8,29 +8,34 @@ public:
         return res;
     }
     string evaluate(string s, vector<vector<string>>& knowledge) {
-        for (auto& vec : knowledge)
-            mp[vec[0]] = vec[1];
-
-        string res = "";
         int n = s.length();
         if (n == 1)
             return s;
+
+        for (auto& vec : knowledge)
+            mp[vec[0]] = vec[1];
+
         int i = 0;
         while (i < n) {
             if (s[i] == '(') {
-                i++;
+                int k = i;
+                k++;
                 string key = "";
-                while (s[i] != ')') {
-                    key.push_back(s[i]);
-                    i++;
+                while (s[k] != ')') {
+                    key.push_back(s[k]);
+                    k++;
                 }
-                res += solve(key);
-                i++;
+                //cout << k << endl;
+                string newVal = solve(key);
+                //cout << newVal << endl;
+                s.replace(i, k - i + 1, newVal);
+                i += newVal.length();
+                n = s.length();
+                //cout << i << endl;
                 continue;
-            } else
-                res.push_back(s[i]);
+            }
             i++;
         }
-        return res;
+        return s;
     }
 };
