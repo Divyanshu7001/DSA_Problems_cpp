@@ -1,12 +1,6 @@
 class Solution {
 public:
     unordered_map<string, string> mp;
-    string solve(string& key) {
-        string res = "?";
-        if (mp.count(key))
-            return mp[key];
-        return res;
-    }
     string evaluate(string s, vector<vector<string>>& knowledge) {
         int n = s.length();
         if (n == 1)
@@ -25,9 +19,8 @@ public:
                     key.push_back(s[k]);
                     k++;
                 }
-                string newVal = solve(key);
-                s.replace(i, k - i + 1, newVal);
-                i += newVal.length();
+                s.replace(i, k - i + 1, mp.count(key) ? mp[key] : "?");
+                i += (mp.count(key) ? mp[key].length() : 1);
                 n = s.length();
                 continue;
             }
