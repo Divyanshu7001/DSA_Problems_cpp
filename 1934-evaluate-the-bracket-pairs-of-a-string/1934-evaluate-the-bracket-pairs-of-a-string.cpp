@@ -25,13 +25,10 @@ public:
                     key.push_back(s[k]);
                     k++;
                 }
-                //cout << k << endl;
                 string newVal = solve(key);
-                //cout << newVal << endl;
                 s.replace(i, k - i + 1, newVal);
                 i += newVal.length();
                 n = s.length();
-                //cout << i << endl;
                 continue;
             }
             i++;
