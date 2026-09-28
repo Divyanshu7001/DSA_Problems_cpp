@@ -9,10 +9,7 @@ public:
                 curr++;
                 res = max(res, curr);
             } else if (s[i] == ')') {
-                if (curr > 0)
-                    curr--;
-                else
-                    curr = 0;
+                curr = (curr > 0) ? --curr : 0;
             }
         }
         return res;
