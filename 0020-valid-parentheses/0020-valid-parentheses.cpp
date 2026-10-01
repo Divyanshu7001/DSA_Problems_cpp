@@ -8,9 +8,9 @@ public:
             if (ch == '(' || ch == '{' || ch == '[')
                 st.push(ch);
             else {
-                if (st.size() < 1)
+                if (st.empty())
                     return false;
-                char topEle=st.top();
+                char topEle = st.top();
                 if ((topEle == '(' && ch == ')') ||
                     (topEle == '{' && ch == '}') ||
                     (topEle == '[' && ch == ']'))
@@ -19,6 +19,6 @@ public:
                     return false;
             }
         }
-        return st.empty() == true;
+        return st.empty();
     }
 };
