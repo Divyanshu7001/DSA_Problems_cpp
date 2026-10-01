@@ -8,29 +8,14 @@ public:
             if (ch == '(' || ch == '{' || ch == '[')
                 st.push(ch);
             else {
-                if(st.size()<1)
+                if (st.size() < 1)
                     return false;
-                char topEle = st.top();
-                cout << topEle << " " << ch << endl;
-                if (topEle == '(') {
-                    if (ch == ')') {
-                        st.pop();
-                        continue;
-                    }
-                    return false;
-                } else if (topEle == '{') {
-                    if (ch == '}') {
-                        st.pop();
-                        continue;
-                    }
-                    return false;
-                } else if (topEle == '[') {
-                    if (ch == ']') {
-                        st.pop();
-                        continue;
-                    }
-                    return false;
-                } else
+                char topEle=st.top();
+                if ((topEle == '(' && ch == ')') ||
+                    (topEle == '{' && ch == '}') ||
+                    (topEle == '[' && ch == ']'))
+                    st.pop();
+                else
                     return false;
             }
         }
