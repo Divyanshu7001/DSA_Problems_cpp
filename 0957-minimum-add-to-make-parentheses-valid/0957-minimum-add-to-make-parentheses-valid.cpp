@@ -6,17 +6,16 @@ public:
             return 1;
         int open = 0, res = 0;
         for (int i = 0; i < n; i++) {
-            if (s[i] == '(')
-                open++;
-            else {
-                open--;
+            if (s[i] == '(') {
                 if (open < 0) {
-                    res++;
-                    open = 0;
-                }
-            }
+                    res += -1 * open;
+                    open = 1;
+                    continue;
+                } 
+                open++;
+            } else
+                open--;
         }
-
         return res + abs(open);
     }
 };
