@@ -64,6 +64,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1188-brace-expansion-ii) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -99,6 +100,7 @@
 | [0022-generate-parentheses](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1188-brace-expansion-ii) |
 ## Stack
 |  |
