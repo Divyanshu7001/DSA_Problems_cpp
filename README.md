@@ -19,6 +19,7 @@
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4256-construct-uniform-parity-array-i) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4258-construct-uniform-parity-array-ii) |
 | [4284-smallest-stable-index-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4284-smallest-stable-index-i) |
@@ -34,6 +35,7 @@
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [4078-maximum-alternating-sum-of-squares](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
