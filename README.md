@@ -16,6 +16,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3799-unique-3-digit-even-numbers) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -35,6 +36,7 @@
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4078-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -66,6 +68,7 @@
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3799-unique-3-digit-even-numbers) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
