@@ -7,6 +7,7 @@
 | [0864-image-overlap](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0864-image-overlap) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1685-stone-game-v](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1685-stone-game-v) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -28,6 +29,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
 |  |
@@ -88,6 +90,7 @@
 | [0866-rectangle-overlap](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1685-stone-game-v](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1685-stone-game-v) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4084-maximize-sum-of-squares-of-digits) |
@@ -135,6 +138,7 @@
 | [0977-distinct-subsequences-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0977-distinct-subsequences-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1685-stone-game-v](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1685-stone-game-v) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -142,6 +146,7 @@
 ## Tree
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -150,6 +155,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -178,6 +184,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sliding Window
 |  |
@@ -227,4 +234,20 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
