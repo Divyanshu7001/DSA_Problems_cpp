@@ -2,7 +2,7 @@ class Solution {
 public:
     int n;
     vector<int> solve(vector<int>& nums, int target) {
-        int l = 0, r = n - 1;
+        //int l = 0, r = n - 1;
         vector<int> res;
         for (int i = 0; i < n; i++)
             if (nums[i] == target)
