@@ -23,6 +23,7 @@
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4078-maximum-alternating-sum-of-squares) |
+| [4184-minimum-operations-to-sort-a-permutation](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4184-minimum-operations-to-sort-a-permutation) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4256-construct-uniform-parity-array-i) |
 | [4257-sum-of-sortable-integers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4257-sum-of-sortable-integers) |
 | [4258-construct-uniform-parity-array-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4258-construct-uniform-parity-array-ii) |
