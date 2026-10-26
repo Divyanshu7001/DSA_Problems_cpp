@@ -18,6 +18,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3799-unique-3-digit-even-numbers) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -34,6 +35,7 @@
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -82,12 +84,14 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1188-brace-expansion-ii) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0864-image-overlap) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -159,6 +163,7 @@
 |  |
 | ------- |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
