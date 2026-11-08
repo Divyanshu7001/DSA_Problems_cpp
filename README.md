@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0864-image-overlap) |
+| [1396-count-servers-that-communicate](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1396-count-servers-that-communicate) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1685-stone-game-v](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1685-stone-game-v) |
@@ -34,6 +35,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1396-count-servers-that-communicate) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -86,12 +88,14 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0301-remove-invalid-parentheses) |
 | [1188-brace-expansion-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1188-brace-expansion-ii) |
+| [1396-count-servers-that-communicate](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1396-count-servers-that-communicate) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/0864-image-overlap) |
+| [1396-count-servers-that-communicate](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1396-count-servers-that-communicate) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3870-minimum-moves-to-clean-the-classroom) |
@@ -164,6 +168,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1396-count-servers-that-communicate) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -268,4 +273,8 @@
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
