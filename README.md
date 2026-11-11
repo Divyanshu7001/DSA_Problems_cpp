@@ -62,6 +62,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [4078-maximum-alternating-sum-of-squares](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4078-maximum-alternating-sum-of-squares) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4147-minimum-cost-to-acquire-required-items) |
 ## Linked List
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4084-maximize-sum-of-squares-of-digits) |
+| [4147-minimum-cost-to-acquire-required-items](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4147-minimum-cost-to-acquire-required-items) |
 | [4245-count-commas-in-range](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4245-count-commas-in-range) |
 | [4248-count-commas-in-range-ii](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4248-count-commas-in-range-ii) |
 | [4256-construct-uniform-parity-array-i](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4256-construct-uniform-parity-array-i) |
