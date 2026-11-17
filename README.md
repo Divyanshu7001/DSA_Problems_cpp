@@ -146,6 +146,7 @@
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [3811-reverse-degree-of-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3811-reverse-degree-of-a-string) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
@@ -162,6 +163,7 @@
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 | [3562-maximum-score-of-non-overlapping-intervals](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3562-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
@@ -207,6 +209,7 @@
 | ------- |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
 ## Combinatorics
 |  |
 | ------- |
