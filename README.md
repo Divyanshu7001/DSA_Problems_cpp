@@ -147,6 +147,7 @@
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2879-minimum-changes-to-make-k-semi-palindromes](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/2879-minimum-changes-to-make-k-semi-palindromes) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3811-reverse-degree-of-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/3811-reverse-degree-of-a-string) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/Divyanshu7001/DSA_Problems_cpp/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
